@@ -1,0 +1,20 @@
+begin script if if player gt if player gt key hircine gt player gt glacier inner ring activate else only a beast or one with the key may pass through this gate else activate player gt glacier inner ring end script
+begin script if if player gt if player gt key hircine gt activate player gt glacier huntsman s hall else only a beast or one with the key may pass through this gate else activate player gt glacier huntsman s hall end script
+begin script short if if player gt if player gt key hircine gt if bm gt bm endgame set to player gt glacier else only one with the key may pass through this gate bm lt even a beast must finish hircine s hunt before passing through this gate bm gt bm endgame set to player gt glacier if bm ex iceberg gt disable bm ex iceberg collapsed gt enable bm endgame player gt glacier if falx falx gt enable set to journal bm end script
+begin if bm c lt disable if bm c gt enable end
+begin if bm b lt disable if bm b gt enable end mead script
+fort imperial cult shrine
+wait for me
+begin short short short float timer global if return if if bm missionary gt if bm missionary lt journal bm missionary if bm missionary return if bm missionary lt return if lt return if if follow is the current package set and continue set to if timer lt set timer to timer return if fort imperial cult shrine journal bm missionary set to say vo r f rf mp thank you if player lt if player lt set to set timer to return if say vo r f rf mp wait for me set to else if follow is not the current package make sure is zero set to end
+begin if bm missionary lt if gt gt gt end
+is now
+removed werewolf blood spell
+player made a werewolf
+should now fade in
+should now add bloodlust
+player should change back for daytime now
+begin this script will check the time of day for werewolf players change them into wolf form and change them back at least in theory short short short fir short float timer if don t run if player isn t werewolf returning player isn t a werewolf return if is now if return player gt werewolf hunger remove the bloodlust once an is killed set to if if timer lt incrementing timer set timer to timer return if fade the player back in make wolf if first change movie play first werewolf change dream should now play first change dream bink player gt werewolf blood removed werewolf blood spell set to other change movie play shorter werewolf change dream should now play shorter change dream bink if player gt set to player made a werewolf should now fade in set to set timer to return give controls after fade in add bloodlust set to should now add bloodlust player gt werewolf hunger set to return is one now and it just ran through that part should be checking time of day now if lt check that it s night if gt if change player back when it s daytime player should change back for daytime now set to set to return it is that time of night if check that player isn t already were form set to is player should lose control and fade take player control fade out fadeout return return end
+begin script if if bm earth lt disable if bm earth gt enable end script
+begin if if bm earth gt disable end
+the strange lock on this closet cannot be opened without the key
+begin short if if player gt key nuncius if if although the strange lock appears to have been disabled this closet cannot open without the key else the strange lock on this closet cannot be opened without the key player gt key nuncius if activate else activate set to end

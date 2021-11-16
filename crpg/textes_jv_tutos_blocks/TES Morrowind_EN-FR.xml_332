@@ -1,0 +1,20 @@
+begin if return if position end
+begin script all all temple checks if player has completed seven graces if so sets local used in dialogue run only on cell change short if return if return if lt return if lt return if lt return if lt return if lt return if lt return if lt return set to end
+begin for short end
+hey wait for me
+begin short short short float timer global short if return if mg gt return if mg lt return if lt return if if follow is the current package set and continue set to if set to journal mg say vo h f hf mp thank you if timer lt set timer to timer return if gals lt set to journal mg say vo h f hf mp thank you if player lt if player lt set to set timer to return if say vo h f hf mp hey wait for me set to else if follow is not the current package make sure is zero set to end
+begin short short short float timer short once global short local to tell if is currently following or not for dialogue if return if fg gt no need to check if the escort is done return if fg lt no need to check if the escort hasn t started return if lt if he s dead return if if follow is the current package set and continue set to if timer lt set timer to timer return if lt if teres arrives give player journal set and replace follow ai package say vo d m dm mp thank you journal fg set to if player lt if player lt set to set timer to return if say vo d m dm mp where are you going set to else if follow is not the current package make sure is zero set to end
+begin short short state short if return if state return if mv gt if mv lt return do nothing if the quest is over if mv lt return do nothing if the quest hasn t begun if return if journal mv return sets journal when he dies if if set to journal mv guar unique gt set to if state if in lt journal mv set state to sets journal when he gets near his destination end
+begin if vampire pc end
+setting stats for testing giving gold etc
+begin if thunderclap setting stats for testing giving gold etc make sure these scripts are running startup stats player gt player gt player gt player gt player gt player gt player gt player gt player gt player gt player gt player gt player gt player gt player gt player gt items player gt gold player gt steel longbow player gt steel crossbow player gt steel arrow player gt steel bolt player gt steel dart player gt steel throwing star player gt steel throwing knife player gt steel player gt steel shield player gt p cure common s magic player gt player gt beggar s nose spell player gt vampire blood berne player gt cure common disease player gt fire bite player gt fire storm player gt fire shield player gt fireball player gt command creature player gt command humanoid player gt bound player gt summon hunger end
+begin float timer short on if if if on set on to if on if timer lt todd gt rotate z using todd as my referenced object for testing set timer to timer else reset everything set timer to set on to end
+begin short float timer z y if if player gt if set to rotate z rotate x if if timer lt rotate x rotate z set timer to timer else set timer to set to end
+begin if rotate y end
+begin tg gt disable gt disable elbert gt disable gt disable gt disable gt disable gt disable la gt disable gt disable tg end
+begin tg gt enable gt enable elbert gt enable gt enable gt enable gt enable gt enable la gt enable gt enable tg end
+discount set to f
+set to discount discount should still be f
+begin float discount set discount to discount set to f discount discount set to discount discount should still be f discount player gt gold set discount to discount set back to new f discount end
+begin short if set to else set to end
+begin short if mv gt return if lucan lucan gt if if ald set to return if player gt ex post unique gt if the player has been there and is far from ald lucan gt disable set to this little trick keeps him from being disabled and placed at pc in the same frame hopefully this works end

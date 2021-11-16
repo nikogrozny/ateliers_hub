@@ -1,0 +1,20 @@
+silo script that handles activation states of the lever activator tied to the blast door s terminal in silo j s duplicated objective scripting for find ed e objective short lever has been used and remains in its final position thereafter int lever is retracted tandem console has not been opened by lever is rising lever is extended and ready for use lever has been used these states correspond respectively to the following animation groups on the lever forward backward left player if if silo if silo left disable d silo ref enable silo ref enable silo unlock a set silo to right left set mode to set to set to return end
+rewards to the player if creature died from a warhead explosion updated to not use kill actor to prevent a possible crash with dying twice player player if player else end
+script rewards to the player if creature died from a warhead explosion player player end
+script to increment poster challenge added scripting for ed e to fly to player and beep excitedly updated script to work with activator posters instead of triggers player end
+displays a message the first time a blank magazine is picked up begin player if set to end player
+road script plays music for walking past first warhead j s added block and timer to control the return of normal music after the reveal sounds play int float begin player if set to end set to if set to return else disable end
+increments challenge when player first acquires the mod short begin player if set to end
+increments challenge when player first acquires the mod short begin player if set to end
+increments challenge when player first acquires the mod short begin player if set to end
+achievement script warhead hunter begin player end
+achievement script rocket s red glare begin player end
+achievement script hometown hero begin player end
+achievement script ed e begin set achievements to player end
+achievement script doomed to repeat it begin player end
+pops up a message letting the player know he can t go any farther begin player end
+script used to display a message whenever the rushing water ingestible is in effect also adds a hidden perk first time only that controls increased attack speed aiming functionality player set to end
+this script controls the post explosions at the nuke sites begin player if check variable to see which nuke we should show if got long forward caesar s legion got forward everybody got forward long forward disable end
+quest script used for auto inject item functionality auto inject auto inject super and tourniquet tweaking settings to be the same as the stealth suit in added check fixed the spell to cast the consumable instead of the effect so it gets updated based off of stats player player if player check for hardcore mode and heal over time effect if player player doesn t have in his system hardcore only if player player player else if player player player player player if player check for hardcore mode and heal over time effect if player player doesn t have in his system hardcore only if player player player else if player player player if player player player player poison if player tourniquet player tourniquet player tourniquet end
+script created for ingestible bedroll to allow the player to call the sleep menu from an inventory item bedroll added scripting to prevent bedroll from working in combat removing combat conditional check in preparation for new flag on wrapped the message pop up to check for the so it only appears if the is open begin player puts the bedroll back into the player s inventory w o a display message set to set to calls the sleep menu from if tells the player they must close the pip boy before they can start sleeping end
+displays a message box the first time the player picks up a it bedroll kit added in extra parameter to line to make sure it works like all other beds set bedroll to not work in lucky fort and greenhouses begin player if set to end player begin it item if if player player lucky world player player wait menu sleep menu set to else set to else set to return end

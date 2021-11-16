@@ -1,0 +1,20 @@
+script short
+short begin only if nelson hasn t been resolved and you re not on the final attack nelson stage of if set to if do nothing spawn troops spawn legion troops else spawn troops spawn legion troops end
+float int set to left if if set to disable end begin player if set to end begin player set to if disable if end begin player if if set to else set to if set to end
+int activate player set to end
+begin set to check if everyone s dead and if so set a flag to start the end scene if if fight s over update quest objectives set flag so scene with legate fires as you leave set to end begin player player end
+int begin player if player enters assume the mine was set off set to end trapper enters place another mine if needed if first if we previously placed a mine clean it up if disable set to set to set to end begin hopefully this detects when the mine associated with this trigger is set off by a nearby explosion set to end
+int player hasn t entered yet traps unsprung player enters assume traps set off begin player when player enters mark the section so the trapper will visit it and reset the traps set to end begin when the trapper enters reset the traps in this section handle triggers trapper places new if if set to set to projectile handle trapper resets three in the area reset ref reset ref reset set ref disarmed to set ref disarmed to set ref disarmed to reset ref reset ref reset set ref disarmed to set ref disarmed to set ref disarmed to reset ref reset ref reset set ref disarmed to set ref disarmed to set ref disarmed to reset ref reset ref reset set ref disarmed to set ref disarmed to set ref disarmed to set flag so the traps here are considered unsprung once more set to end
+script short
+begin player player if set to end
+begin player player if set to end
+begin set to check if everyone s dead and if so set a flag to start the end scene if if fight s over update quest objectives set flag so scene with legate fires as you leave set to end begin player player end
+begin player set to if end
+begin player set to if end
+begin player set to if end
+begin player set to if end
+begin player set to if end
+short total number of ranger stations the player has upgraded short suicide secret kept proceed with crazy plan knock it off killed if if end
+short begin player a player greeting set to disable end
+short begin player if set to timer disable end
+short begin player if enable set to end

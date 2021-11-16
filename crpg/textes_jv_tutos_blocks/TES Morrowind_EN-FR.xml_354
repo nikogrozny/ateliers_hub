@@ -1,0 +1,20 @@
+begin controls timing and variables for weapon smithing also contains journal update for killing all three in quest co a short short s axe short s short s dagger short s sword short s mace short short short busy short if busy if day set to day set to if gt gt player gt gt player end
+begin b short short short short if if co a lt disable if if co a enable if if co a gt journal co a if if co a set to player set to if set to player set to if set to journal co a set to if co a gt if player end
+begin if if co gt if disable if co a gt if disable end
+begin controls enabling disabling of blocking boulders used in quest co if co gt if disable end
+begin enables door and controls entry to mine during quest co if if lt disable if if gt enable if co gt if co lt if the strange lt if the door cannot be opened is blocking the way if co gt if activate end
+begin short if if lt disable if if gt if enable if set to end
+begin if co a if gt if gt if gt if player gt bm nordic pick journal co a end
+begin if co a if if if if if journal co a end
+begin short short short short short if if co a lt if set to gt if if co a lt disable if if co a if gt if lt enable if if co a player set to if co a if if if if if if journal co a end
+fort imperial cult shrine
+fort imperial cult shrine
+begin handles the timing for quest co returns journal entry failing quest after minutes pass also randomly determines location of for finishing quest and handles returning him to original location if quest is failed float float float float timer short initialized if initialized if co gt set to if lt set to set to random if gt grove gt forest gt plains set initialized to initialized set to if lt set to set to if gt if co lt journal co set initialized to set timer to timer if timer gt if co lt journal co set initialized to initialized if co if fort gt fort imperial cult shrine if co if fort gt fort imperial cult shrine set initialized to end
+begin short if co if disable end
+begin a short if if co gt if player lt journal co set to if co if disable end
+begin if co lt if disable co if enable end
+begin short short if co gt if set to day set to if lt if day set to set to day if gt set to end
+you set off a trap
+begin controls triggering of trapped rug for quest co short if co gt if co lt if if cast colony rug player you set off a trap set to set to end
+begin controls actions during quest co float float float float timer short short combat short short tired short if return if if co gt raven rock bar if if co gt if player lt set to if co gt if co lt if journal co if return if combat if co set to player gt set to player set combat to if combat set to player gt if lt journal co set combat to tired journal co set combat to if combat if timer gt set tired to else set timer to timer end
+begin enables smithy if it is chosen in quest co if lt if disable if if enable end

@@ -1,0 +1,20 @@
+spell
+blocks physical object but not
+pick for path smoothing and such
+pick clutter and other items of interest
+only spells collide with this for triggering
+this is a trigger type that should only look for living actors for trap trigger boxes
+vampire seduction will always work for people in this faction per perk
+dialogue faction for exterior
+player is turning me into a vampire
+player can turn this actor into a vampire
+gets dialogue pointing player to radiant quests
+vampire intro quest enemy faction
+the player made me into a vampire
+citizens of they are a tall and fair haired people strong and hardy are famous for their resistance to cold and their talent as warriors they can use a to make opponents flee
+citizens of they are a tall and fair haired people strong and hardy are famous for their resistance to cold and their talent as warriors they can use a to make opponents flee
+high elf
+script effect
+null effect
+restore health
+vampires heal lt mag gt points of health

@@ -1,0 +1,20 @@
+int on faction hostile no house dialogue elevators only accessible to casino ground over hours have elapsed faction neutral again house dialogue previous elevator state restored int short locked style until is over quest complete records the current state of all affected quest to be restored short storage variables for quest entrance int int int lucky faction player neutral enemy ally friend set to set to at the end of over below on set to current quest states recorded to be reset when ends quest complete set to at the end of over below save previous quest state entrance set to entrance set to entrance note this won t work returns is checked against objective index would need to check all of them or make a counter to check every number until returns true set to entrance same as above entrance this allows the elevator doors to function checked by lucky timer set to set to set to at the end of over below if set to over restore previous quest state entrance entrance entrance entrance set to end
+short onstage else activate end begin player set to if onstage set to set onstage to else set to end begin set to if onstage set to set onstage to else set to end set to end if onstage set onstage to set to set to set to set to end
+begin end
+short onstage else activate end begin player set to if onstage set onstage to end begin set to if onstage set onstage to end set to end if onstage set onstage to set to set to set to set to end
+begin player disable fast travel if dam battle started if a a end
+ disable enable end end
+prevent all combat with children begin end health resurrect end begin end player if activate end
+ player activate activate end
+float short begin timer for scene set to else if fade out fade out set to set to set to move stuff during fade run this on faded out set to set to run my quest stuff here player enable enable disable set to look faded in kill oliver set to set to kill faded in kill oliver set to set to kill fade out again fade out set to set to move everything back set to set to player disable enable final stage run this on faded in set to set to enable set to set to enable player greeting end
+int player left midway through the story int pete is telling the story don t interrupt return else activate end begin set to end begin player end begin end player end begin end begin end player else end player else end begin end player else end player else end set to if set to set to set to set to end
+begin player if set to set to set to else set to set to end
+begin player d enable disable end
+begin player unlock enable enable enable set to end
+int begin unlock the door the first time we load since it s only locked to provide the ability to lock it and require a key later if unlock set to end
+int begin player if start howitzer firing set to set to end
+short begin set to forward end begin forward set to if disable set to if end
+float timer begin only do this if the howitzer was fixed and triggered timer if marker marker else marker set timer to else set timer to timer end
+begin end
+begin player if player disable end
+vault begin player v v v v v v v end

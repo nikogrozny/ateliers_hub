@@ -1,0 +1,20 @@
+a helper object to smooth character controller amp traversal of steps
+this trigger type is used for the falling traps and should get trigger events when it collides with any visible
+only spells collide with this for triggering
+custom layer used for critters should receive hits from weapons spells but not collide with characters or the world
+this is a trigger type that should only look for living actors for trap trigger boxes
+red violet dye
+red dye
+light pink dye
+red
+light purple
+light blue
+light pink
+light red
+red
+deep red
+light brown
+red
+none
+lip brownish red
+lip red

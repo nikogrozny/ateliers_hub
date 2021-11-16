@@ -1,0 +1,20 @@
+enable this option to hear footsteps and other sounds caused by creature movements
+enable this option to display subtitles for character sounds
+these buttons control how often the party characters will say their command sounds choosing always plays a sound every time a character is given a command choosing seldom plays a sound only when the character is selected and given its initial command choosing never disables command sounds
+this slider controls the difficulty level to be used in combat the middle setting is true ad amp d if you want to play the game using the true ad amp d rules then don t touch this slider if you move the slider to an easier setting then you will receive proportionately less experience points the reverse does not apply when you use a harder setting
+enable this option if a character should always appear dithered when it is obscured by an object if this setting is disabled the character is only dithered when the mouse cursor is over it or its portrait otherwise the character is not displayed at all
+enable this option to hear environmental audio effects such as echoes in caves this option requires a sound card compatible with the standard
+enable this option for gory combat animations
+this slider controls when the ellipsoid markers are rendered under creatures minimum picked creature low picked creature or selected character medium picked creature or selectable character high picked creature or selectable character or targeted creature maximum all creatures and characters
+this slider controls when the locator arrows appear that indicate the direction of a character off screen minimum never low character takes damage medium character is picked high always maximum always
+enable this option to see a character s to hit rolls in the dialog window
+enable this option to see combat information messages in the dialog window
+enable this option to see a character s action messages in the dialog window
+enable this option to see character state messages in the dialog window
+enable this option to see character selection text in the dialog window
+enable this option to see other types of messages in the dialog window
+enable this option to pause the game automatically whenever a party member is hit
+enable this option to pause the game automatically whenever a party member is seriously injured reduced to less than hit points
+enable this option to pause the game automatically whenever a party member dies
+enable this option to pause the game automatically whenever a party member is attacked
+enable this option to pause the game automatically whenever a party member s current weapon becomes unusable

@@ -1,0 +1,20 @@
+player puts sword on weapon stand set nd to set nd to enable player player player player player player player
+remove mace special ability player
+player puts mace on weapon stand set nd to set nd to enable player player player player player player player
+player picks up helmet from stand set nd to disable if nd player else player
+player picks up cuirass from stand set nd to disable if nd player else player
+player picks up greaves from stand set nd to disable if nd player else player
+player picks up gauntlets from stand set nd to disable if nd player else player
+player picks up boots from stand set nd to disable if nd player else player
+player picks up shield from stand set nd to disable if nd player else player
+player picks up sword from stand set nd to disable player
+player picks up mace from stand set nd to disable player
+the barrel is empty
+the barrel is empty
+the barrel is empty
+the barrel is empty
+the barrel is empty
+the barrel is empty
+the barrel is empty
+the barrel is empty
+barrel dispenses cheap wine short bottles how many bottles does the barrel contain incremented by vintner decremented by player activating barrel short init begin if init set init to set bottles to end begin if player dispense wine to player if bottles gt set bottles to bottles player cheap if bottles gt message the barrel still contains enough to fill f more bottles bottles bottles message the barrel contains enough to fill more bottle else message that was the last wine in the barrel it is now empty else message the barrel is empty end

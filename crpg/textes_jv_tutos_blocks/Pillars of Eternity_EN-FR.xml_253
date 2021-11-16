@@ -1,0 +1,20 @@
+ai script is active
+ai script is inactive
+use per rest abilities
+class behavior
+no ai script selected
+all upgrades are completed
+auto attack
+defend self
+animal companion auto attack
+use per rest abilities
+chance to cast
+on hit or critical hit
+value
+cannot be engaged by enemies more than level below self
+cannot be engaged by enemies more than levels below self
+cannot be unequipped
+pt damage shield
+the character will not move to attack unless they are engaged by an enemy if that enemy is defeated they will seek out new enemies to attack
+the character will not move to attack automatically under any circumstances
+the character will actively seek out nearby enemies for combat regardless of whether or not they are being directly attacked

@@ -1,0 +1,14 @@
+has bested his brother in hand to hand combat
+because i attacked the brothers during their battle they have decided to attack me
+gold armor cuirass
+gold armor left pauldron
+gold armor right pauldron
+gold armor helmet
+here s your gold next i want the propylon index its current owner the old and powerful wizard of tel a collector of antiquities may not want to part with it
+begin sail script local script on the sailor that checks local variable sail for warping the whole party to the island and back does the checking for who s alive and the coordinates they get warped to sets variable at island to when at the island short state short sail short at island startup disable it all if state sailor gt disable warrior gt disable archer gt disable mage gt disable fm boat dock gt disable fm boat island gt disable set state to return check for journal entry and turn everything on if ms if state sailor gt enable warrior gt enable archer gt enable mage gt enable fm boat dock gt enable gate gt unlock gate gt unlock set state to return if return disable everything again now that quest is over if ms if state sailor gt disable warrior gt disable archer gt disable mage gt disable fm boat dock gt disable fm boat island gt disable set state to return if sail return warping boat has been told to sail from dialogue sailor sets sail to if sail the boat is at dock if at island the boat is at dock everyone to island if sailor sailor gt position if warrior warrior gt position warrior gt player if archer archer gt position archer gt player if mage mage gt position mage gt player player gt position fm boat island gt enable fm boat dock gt disable set at island to sail back to else if sailor sailor gt position if warrior warrior gt position warrior gt if archer archer gt position archer gt if mage mage gt position mage gt player gt position set at island to fm boat island gt disable fm boat dock gt enable set sail to end sail script
+regenerate health
+census and excise gate
+census and excise gate
+lower cavern
+no sorry no ring
+your mercantile skill has increased by

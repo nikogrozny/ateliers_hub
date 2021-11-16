@@ -1,0 +1,20 @@
+ms map begin player this triggers journal when map taken if ms ms end
+ms begin player this triggers journal on key pickup if ms gt amp amp ms lt ms end
+ms short short begin if ms if ms lt amp amp player set ms to player greeting set ms to if amp amp player set to end begin if ms lt amp amp ms set to end
+begin if gt if lt if player gt end
+short begin if if if gt if set to end
+short float timer begin if ms gt amp amp ms lt ms end begin set ms to end begin if player if gt amp amp lt if player amp amp player amp amp set timer to timer if timer gt set timer to if lt amp amp set timer to timer if timer gt set timer to set to if if if gt if set to end
+mg this script updates the quest stage to when the item is added to the player s inventory begin player if mg lt mg end
+mg begin if mg lt return if mg if mg mg set mg to set mg to mg mg set mg to set mg to mg mg set mg to set mg to mg mg set mg to set mg to mg mg set mg to set mg to mg mg set mg to set mg to mg mg set mg to set mg to mg mg set mg to set mg to mg mg set mg to set mg to set mg to end
+begin set ms to end begin player player end
+script begin if rats rats end
+script begin if rats rats end
+begin end begin end
+ms begin player sets stage on sword pickup if ms gt ms end
+ms begin if player activate ms end
+begin if ms gt amp amp ms lt ms end
+short stop short begin if player if ms lt amp amp stop player greeting set stop to if ms if player player greeting end begin ms this moves to s at stage if ms gt amp amp amp amp ms disable ms stage marker set to end
+short begin if say ms set to this is to player after the amulet switch if ms gt amp amp ms lt amp amp ms amp amp player greeting set ms to end begin if ms gt amp amp ms lt ms if ms gt amp amp ms lt ms end
+when activated will shoot fireball at player after sec float timer short ready ref myself ref short next short begin if player amp amp timer lt forward set timer to set ready to set next to end begin daisy chain if next amp amp timer lt set myself to set to activate myself set next to this section will choose the trap spell based on the pc s level hopefully if player lt set to player gt amp amp player lt set to player gt amp amp player lt set to player gt set to if timer lt amp amp ready debug message message rank f fireball if cast novice player cast apprentice player cast journeyman player cast expert player set ready to if timer gt set timer to timer end
+script activates linked parent can be triggered again after a second delay short triggered ref target ref myself float timer begin if triggered set target to set myself to target activate myself set triggered to set timer to end begin if triggered amp amp timer lt set triggered to if timer gt set timer to timer end
+short triggered ref target ref myself ref float timer short next begin if player return if triggered set to set myself to set triggered to if myself set timer to set next to forward end begin daisy chain if next amp amp timer lt set myself to set to activate myself set next to reset for next time if timer lt amp amp triggered set triggered to backward if timer gt set timer to timer end

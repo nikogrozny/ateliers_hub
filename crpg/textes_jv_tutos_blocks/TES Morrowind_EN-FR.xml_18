@@ -1,0 +1,20 @@
+command creature
+extra spell
+summon centurion sphere
+sun damage
+alteration
+conjuration
+spells
+cast once
+cast when strikes
+cast when used
+constant effect
+self
+touch
+target
+you failed casting the spell
+you do not have enough to cast the spell
+item does not have enough charge
+your spell did not get a target
+your spell has locked its target
+your spell has unlocked its target

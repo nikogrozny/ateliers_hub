@@ -1,0 +1,20 @@
+begin end
+short end begin end
+checks the state of the door and either opens or closes it ref begin set to end begin set to end
+float timer begin set timer to set to set to end begin if timer set to if timer set to set timer to timer end
+begin smoke pulse end begin smoke pulse end
+begin end begin disable end
+begin flames smoke end begin smoke flames end
+if the player has science ability they can get through the door short begin set to change this number to change the skill requirement if player if player science change science to something else for a different skill pass be sure to make new messages if changing the required skill activate else end
+script when the player investigates this the behemoth mentioned in a note is spawned and heads towards the trigger location short begin player if enable set to end
+short freed button short float timer freed disable else freed ignore crime so that i won t respond to friendly fire reset restrained state so i can get back into position after load set to end begin freed if player if player if male female else activate end begin restrain me once i m in position set to if freed set button to if button disabled captives rescued variable set freed to stop ignoring crime set timer to timer if timer set timer to if say end
+short set to in dialog starts script below replace with variable short set to in dialog starts script below replace with variable short script blocker float timer timer used for animation control begin when set to plays medical animations for eight seconds then restarts conversation with the player if variable if player set timer to set to set timer to timer if timer set to if timer doctors when set to plays medical animations for eight seconds then restarts conversation with the player if variable if set timer to set to set timer to timer timer set to if timer doctors clear when variable has been reset if if variable set to end
+follower variables waiting dogmeat variables short find not finding searching found and should now return begin player set followers to set followers to set waiting to end end followers followers set followers to set followers to end
+follower variables waiting end followers set followers to set followers to end
+begin forward end
+ right forward left right backward left else backward end
+begin end
+cg reset failsafe timer any time you talk to anyone at the party player cg set cg timer to cg activate end
+hd short water the robot needs to recharge it s condensation collectors short x how many from waters have been given to the player short joke short x the jukebox song has already played so don t play it twice in a row float x how much time has passed since th water given float x measures day passed since last joke told begin handling of the water given water set to set water to if water if set water to set to handling of the jokes told if joke set to set joke to if joke if set joke to end
+hd short done short button short used here player hd set to end begin this section of the block handles all of the button presses on the laboratory kit set button to if button player health hd set to button player player player player player player hd set to button player hd set to button do nothing set to end
+hd short done short button short the laboratory is now brewing a drug float x x float for how much time has passed short used here player if set to hd hd set to hd player end begin this section of the block handles all of the button presses on the laboratory kit set button to if button button set to set to button player player player player player player player button clear button variable set to set to end

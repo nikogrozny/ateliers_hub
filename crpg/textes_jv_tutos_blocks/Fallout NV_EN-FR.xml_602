@@ -1,0 +1,20 @@
+ulysses class
+silo lift tunneler faction
+ulysses temple battle faction
+tunneler poison
+ed e timer
+attack speed
+sneak sight
+sneak sight
+automatic use
+rushing water
+automatic use at health
+automatic use at health
+restore health to ulysses
+bonus critical damage sneak
+stuns or dazes enemies
+script to stop from following the player to long j s ref player activate return else set to if return else return end
+script script attached to a door so that it stops tunnelers from activating it j s ref player activate return else set to if activate return else return end
+ref myself ref myself stonewall set myself to set to myself else end
+silo floor this script awakens the first floor sentry bot in silo upon crossing its associated trigger j s short bot enabled and trigger is now ready for deletion begin player if simple check to enable the robot of silo s first floor we keep it disabled to help performance and aggro when players are turning the silo s power back on bottom level if silo added this check so that if the sentry is already enabled by having crossed a reference of the associated activator trigger elsewhere we simply disable the volume rather than call enable again silo enable set to disable else set to disable end
+adds blood nap to the player s inventory short runs script once begin player if player disable player set to end

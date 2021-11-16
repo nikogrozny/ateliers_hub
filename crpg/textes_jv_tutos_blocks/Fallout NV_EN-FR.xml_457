@@ -1,0 +1,20 @@
+int player if set to activate else elijah shuts up about dealing with companions once the player leaves the lobby set to activate end
+dm created modified to handle d speaker elijah bark for west town ref begin player if followers set to say disable end
+dm created modified for d sound elijah bark for west town ref begin player set to say disable end
+dm script created fires a bark from christine when the player gets close to some speakers begin player if followers followers if christine is in the party and currently following the player say disable end
+dm script created fires a bark from christine when the player enters a small underground room begin player if followers followers if christine is in the party and currently following the player say disable end
+dm script created fires a bark from dean when the player enters west town south begin player if followers followers if dean is in the party and currently following the player say disable end
+dm script created fires a bark from dog when the player is wandering around inside a large interior in west town begin player if followers followers if dog is in the party and currently following the player say disable end
+dm script created fires a bark from dean when the player finds the courtyard with the two umbrellas and the lawn chairs begin player if followers followers if dean is in the party and currently following the player say disable end
+dm script created fires a bark from dean when the player gets close to his galrea begin player if followers followers if dean is in the party and currently following the player say disable end
+dm script created fires a bark from christine in west town when the player gets close to an area with roof access begin player if followers followers if christine is in the party and currently following the player say disable end
+dm script created fires a bark from dog when the player finds a bear trap on the roof in west town begin player if followers followers if dog is in the party and currently following the player say disable end
+dm script created fires a bark from dean when the player gets close to a dead tree begin player if followers followers if dean is in the party and currently following the player say disable end
+dm script created fires a bark from christine when the player gets close to her galrea begin player if followers followers if christine is in the party and currently following the player say disable end
+jorge elevator to vault variables short int quest operational variables short int float begin player vault elevator is found for the first time set to set to set to return set to set to return return else activate if use it may need to condition this one against certain actions stages end set to unlock player d if else set to return set to return end
+script script to fire off a quest objective from elijah when players enter vera s room know about the elevator lock and don t have this level s from vera jorge short begin player if set to disable end
+int short
+script script to fire off a quest objective from elijah when players are in the kitchen area jorge begin player if set to set to disable end
+script script to fire off a quest objective from elijah when players first enter the kitchen jorge short begin player if set to disable end
+script script to fire off a quest objective from elijah when players are in the theater and know about the vault elevator being voice locked jorge short begin player if set to if set to disable end
+script script to fire off a quest objective from elijah when players first enter the theater jorge bonce begin player if ref say set to disable end bonce set bonce to end

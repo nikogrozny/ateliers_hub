@@ -1,0 +1,20 @@
+sanguine balanced armor
+sanguine nimble armor
+sanguine red wisdom
+sanguine stolid armor
+begin player gt sanguine balanced armor player gt sanguine deep biting player gt sanguine denial player gt sanguine enterprise player gt sanguine fleetness player gt sanguine fluid evasion player gt sanguine glib speech player gt sanguine golden wisdom player gt sanguine green wisdom player gt sanguine hewing player gt sanguine horny fist player gt sanguine impaling thrust player gt sanguine leaping player gt sanguine martial craft player gt sanguine nimble armor player gt sanguine red wisdom player gt sanguine safekeeping player gt sanguine silver wisdom player gt sanguine smiting player gt sanguine stalking player gt sanguine stolid armor player gt sanguine sublime wisdom player gt sanguine player gt sanguine player gt sanguine transcendence player gt sanguine transfiguring player gt sanguine unseen wisdom end
+begin if you re both in the arena and if the quest is active sets a journal and raises the player s rank when dies short short if return if mg lt return if arena return if return if set to set to mages guild mages guild journal mg end
+begin short if return if ms lookout gt if ms lookout lt if gt if journal ms lookout set to activate end
+begin short if mv lt return if if mv lt journal mv if mv gt if mv lt journal mv gt if lt if mv lt journal mv end
+begin if disable gateway haunt end
+hey wait for me
+begin short short short float timer if return if fg vas gt return if fg vas lt return if lt return if if follow is the current package set and continue set to if gt if the necromancer is dead give the player feedback journal reset and give wander package journal fg vas set to if timer lt set timer to timer return if player lt if player lt set to set timer to return if say vo d f mp hey wait for me set to else if follow is not the current package make sure is zero set to end
+begin for stronghold short end
+begin if journal b end
+begin commented out by doug was not compiling amp causing dialogue crashes short rotate if misc pot redware if rotate the pot was used on me i ll spin around now set rotate to else the pot was used on me i ll stop spinning now set rotate to if if rotate rotate z end
+begin short if if gt player set to end
+begin if return talk to player if story has not been told if player lt if il lt if il gt if disable end
+begin if ms disable end
+begin vampire short done short short short short short short short short if va set to return if if va if set to set to set to va if set to set to set to vampire dust if done return if done check for pc no longer a vampire if player gt vampire specials set done to if done check for pc as a vampire if player gt vampire specials set done to player gt vampire specials if set to return if done vampire blood this is the blood disease vampire attributes vampire skills vampire immunities vampire sun damage vampire touch vampire specials set done to end vampire
+begin vampire pc if return if pc is not normal vampire cured vampire pc return player gt vampire blood player gt vampire attributes player gt vampire skills player gt vampire immunities player gt vampire sun damage player gt vampire touch player gt vampire specials spells added set to set to set to set to vampire pc end vampire pc
+begin vampire berne short done short short short short short short short short if va set to return if if va if set to set to set to va if set to set to set to vampire dust if done return if done check for pc no longer a berne vampire if player gt vampire berne specials set done to if done check for pc as a berne vampire if player gt vampire berne specials set done to player gt vampire berne specials if set to return if done vampire blood berne this is the blood disease vampire attributes vampire skills vampire immunities vampire sun damage vampire touch vampire berne specials set done to end vampire berne

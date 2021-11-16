@@ -1,0 +1,20 @@
+damage bonus
+magnum damage bonus
+ player player player ammo ga player player set to end
+lightweight leather armor
+caravan pack items added to inventory
+ player canteen player end
+ player armored player player player ammo mm player set to end
+classic pack items added to inventory
+ player player player ammo player player set to end
+lightweight metal armor
+mercenary s grenade rifle
+mercenary pack items added to inventory
+ player player player player set to end
+tribal raiding armor
+tribal pack items added to inventory
+frost damage
+jorge s script to handle transition to zion valley added auto firing of new vegas companions sorry buddies no zion for you added code to enable the radios when leaving zion ref player if player else if disable disable set to disable set to nv quests shutdown shutting down all legion assassin s quests legion bad one was causing a issue if stopped here and started in script note this quest is not stopped i e commented out on purpose but included for tracking set to set to fire humanoid follower if set to assistance set waiting to set to set to set to remove player from boone s faction so legion isn t automatically hostile player player spotting set to assistance set waiting to set to set to set to player set to assistance set waiting to set to set to set to player set to assistance set waiting to set to set to set to player set to assistance set waiting to set to set to set to player set to assistance set waiting to set to set to set to player fire rex or ed e if set to assistance set waiting to set to set to set to player set to ref assistance assistance assistance ref set ref waiting to set ref waiting to set ref waiting to set to set to set bedel to reset ed e s in case he got frenzied ref aggression ref aggression ref aggression player ref set to sets date for arrival set to set to set to if set to set to set to if set to seriously what an idiotic bug all over the scrips of set to set to else if set to set to activate else return end
+this script is for a generic tripwire activator ref self ref short armed button short init init set armed to set to set init to end begin set self to if armed forward activate self set armed to end armed is the trap already activated disarmed if player can the player disarm the trap if player repair set to else message your repair skill is not high enough to disarm this trap else activate end armed set self to set to check for flying things by faction and exclude them if do nothing check for mister handy and mister gutsy hp hl hl do nothing and check for specific followers ed e follower do nothing and then check to see if we re armed and that the triggering actor doesn t have the perk dm added trap faction forward activate self set armed to end don t run stuff in game mode unless recently activated set button to grab the button state you don t know when this will be set if button if a valid response is received start doing stuff if button set armed to disarm the trap forward set to set to set to set to set to else set to set to set to stop running stuff end
+salt upon wounds power fist
+three marys caverns

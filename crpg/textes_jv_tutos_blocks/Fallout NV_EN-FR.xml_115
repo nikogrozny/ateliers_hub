@@ -1,0 +1,20 @@
+begin player if temporary effect in reality it will update the quest to the appropriate stage end
+short rnd short set rnd to rnd set to end set rnd to rnd set to end set rnd to rnd set to end set rnd to rnd set to end
+this script is attached to a trigger near the entrance to the basement it causes any that are leaving and enter it to disappear and sets a variable on when he passes through it ref begin set to case for if disable case for disable case for set to end
+int still imprisoned free upstairs begin set to if if end
+this script determines how acts and reacts in the game in combat he should stealth immediately and for seconds after being hit float timer begin end begin set timer to end begin set to complete deal with the objective show return to jason and tell him the are dead objective set the are all dead variable so we can check if you do this before getting the quest if set to get rid of optional objectives that can no longer be completed hide the optional stealth boy objective if it s being shown end begin added conditional code to reduce the cost of running the script on every frame part of a game wide revision of scripts jorge if return else ref set to this timer set timer to timer else set timer to end
+ float float begin sneak set to set to set to end begin set to end begin set to end begin set to set to complete deal with the objective show return to jason and tell him the are dead objective if hide the optional stealth boy objective if it s being shown set the are all dead variable so we can check if you do this before getting the quest if set to end begin ref set to this if ref set to if if set to d set to else if sneak set to if say set to set to end
+the ammo for the recharger rifle float begin player set to end begin short delta if player if delta player set to else set to end
+ short float int cloaked stealth boy effect not on stealth boy effect on this var is meant to ensure we never try to remove the effect when it s not already on begin sneak add the effect update the flag if cloaked cloaking on load set cloaked to set to set to end begin set to end begin set to combat ending end begin set to if the is currently using the stealth boy effect remove it if cloaked set cloaked to end begin ref set to this if player player backup check to after death if cloaked set cloaked to set to if ref set to else if not in combat use stealth boy again if cloaked not in combat cloaking set cloaked to set to have when they attack if cloaked set cloaked to if d set to end
+begin player end begin player end
+short once once set once to player player player jet player player player player end
+ player activate else do nothing end
+ variable force to equip shotgun without ammo until after he speaks to you or goes into combat end begin no longer forced to have it equipped end
+ player activate else do nothing end
+this script will kill its ref short set to if set to kill set to trigger is only set off one time end
+don t pass a parameter in your terminal s activate script this script will not allow to use the door it s intended for sneaky hacky players to be able to use the door for purposes begin lock in case someone forgets to lock the terminal in the editor end player if player ms unlock activate end
+this script is attached to a trigger that we use to get a better guess on the player s chance to see the bombs fall begin set to end
+ref begin set to if then do nothing else activate everyone else allowed through end
+ health end
+ player activate else do nothing end
+this script disables and marks for deletion after the second load short begin set to if disable end

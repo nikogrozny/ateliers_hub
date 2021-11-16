@@ -1,0 +1,20 @@
+player
+player enable
+if se amp amp se amp amp se se
+if se amp amp se amp amp se se
+if se amp amp se amp amp se se
+if se amp amp se amp amp se se
+se ref activate
+this stage may never get executed if ambushes the player before the script has a chance to update the quest stage if you test for this stage you should also consider testing for the previous stage as well
+this stage may never get executed if ambushes the player before the script has a chance to update the quest stage if you test for this stage you should also consider testing for the previous stage as well
+the player has placed the gatekeeper parts on the altar set in se
+player has placed the dermis membrane on the altar set in se
+player has placed the osseous marrow on the altar set in se
+player has placed the essence of breath on the altar set in se
+player has stepped away from the altar now set in se
+if se se enable se se enable se se enable else se enable player se se
+if player became duke of dementia in se enable saint for se if se a set se state to if se se enable se if player became duke of mania in se enable seducer for se if se b set se state to if se se enable se
+set when saint seducer talks to puts him on ambush package to talk to the player
+if se state se ref enable se ref enable se ref disable se ref disable enable se enable se state se ref enable se ref enable disable disable enable se enable aggression
+se ref enable se ref enable se ref disable se ref disable enable se enable se unlock
+se ref enable se ref enable disable disable enable se enable se unlock

@@ -1,0 +1,20 @@
+ref begin player if gt you are unable to equip the holy armor walk the pilgrim s way to repent of your sins and once again seek the favor of the gods set to else set nd to player end begin player note any changes here need to be reflected in nd stages which are used when placing armor on the armor stand set nd to player end begin player set nd to end begin player set nd to end
+ref begin player if gt you are unable to equip the holy armor walk the pilgrim s way to repent of your sins and once again seek the favor of the gods set to else set nd to end begin player set nd to end begin player set nd to end begin player set nd to end
+ref begin player if gt you are unable to equip the holy armor walk the pilgrim s way to repent of your sins and once again seek the favor of the gods set to else set nd to player player empty script used only to put name in spell list end begin player note any changes here need to be reflected in nd stages which are used when placing armor on the armor stand set nd to player player empty script used only to put name in spell list end begin player set nd to end begin player set nd to end
+armor reaction
+script effect
+merciful touch
+blessing of the eight
+spirit of the divine
+spirit of the divine
+mortal light
+mortal light
+mortal light
+mortal light
+mortal light
+mortal light
+mortal light
+mortal light
+light that protects
+light that burns
+light that protects

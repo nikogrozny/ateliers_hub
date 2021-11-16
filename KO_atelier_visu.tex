@@ -1,0 +1,197 @@
+\documentclass[11pt]{beamer}
+\usepackage{helvet} %font
+\beamertemplatenavigationsymbolsempty
+\usetheme{JuanLesPins}
+\usefonttheme{structurebold}
+
+\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb,amsmath}
+\usepackage{tikz}
+\usepackage{geometry}
+\usepackage{xcolor,colortbl}
+\usetikzlibrary{arrows,positioning}
+\usepackage{geometry}
+\usepackage{changepage}
+
+
+\setbeamercolor{structure}{fg=red}
+\setbeamercolor{frametitle}{bg=black,fg=white}
+\definecolor{gris}{gray}{0.6}
+\definecolor{grisclair}{gray}{0.9}
+
+\newtheorem{exercice}{Exercice}
+
+\title{Introduction to NLP}
+\author{Nicolas Bourgeois}
+\date{}
+
+
+
+\begin{document}
+
+\begin{frame}
+\maketitle
+\end{frame}
+
+\section{Classical Problems}
+
+\begin{frame}{}
+
+\includegraphics[scale=0.4]{./img/golem2}
+\end{frame}
+
+\begin{frame}{}
+
+\includegraphics[scale=0.25]{./img/A1ranking}
+% En l'absence de web sémantique
+\end{frame}
+
+\begin{frame}{}
+
+\includegraphics[scale=0.2]{./img/A2targeting}
+
+\end{frame}
+
+\begin{frame}{}
+
+\includegraphics[scale=0.3]{./img/A3tnl}
+
+\end{frame}
+
+
+\begin{frame}{}
+
+\includegraphics[scale=0.35]{./img/A6topicrecognition}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Research Problems (in our lab!)}
+
+
+\begin{frame}
+\begin{adjustwidth}{-1.5em}{-1.5em}
+\scalebox{0.7}{
+\begin{tabular}{p{5cm}p{10.5cm}}
+
+\textbf{Armes et équipements}	&	Most {\color{red} \textbf{Energy Weapons}} fall into one of two categories: {\color{red} \textbf{laser}}, which is fast, {\color{red} \textbf{accurate}}, and low-{\color{red} \textbf{damage}}, and plasma, which is slow-moving and very high-{\color{red} \textbf{damage}}. \textit{(Fallout New Vegas})\\
+\textbf{Composantes de l’univers} (lieux, matières, plantes, bestiaire)	&	I know the {\color{blue} \textbf{alleys}} and {\color{blue} \textbf{streets}} of Sentinel intimately from decades worth of {\color{blue} \textbf{ambling}}. I know which {\color{blue} \textbf{bridges}} creak, which {\color{blue} \textbf{buildings}} cast long irregular {\color{blue} \textbf{shadows}}, the intervals at which the {\color{blue} \textbf{native birds}} begin the {\color{blue} \textbf{ululations}} of their evening songs. \textit{(ES 4)}\\
+\textbf{Quête} (mission, récompense, chasse, verbes liés au devoir ou à l’investigation)	&	As Geralt {\color{red} \textbf{searched}} the burned village for {\color{red} \textbf{clues}}, he could not help but {\color{red} \textbf{notice}} a pervading scent of sulfur. {\color{red} \textbf{Finding}} no other {\color{red} \textbf{traces of the beast}}, however, Geralt {\color{red} \textbf{noted}} his {\color{red} \textbf{suspicion}} and set off for the dwarven catacombs to {\color{red} \textbf{pursue}} his other lead. \textit{(The Witcher 2)}\\
+\textbf{Société et collectivités} (famille, religion, politique, guerre, guildes, peuples)	&	My most {\color{blue} \textbf{august}} and wise {\color{blue} \textbf{friends}}, {\color{blue} \textbf{members}} of the {\color{blue} \textbf{Elder Council}}, I am but a provincial {\color{blue} \textbf{queen}}, and I can only assume to bring to issue what you yourselves must have already {\color{blue} \textbf{pondered}}. \textit{(ES 3)}\\
+\textbf{Cosmogonie, Histoire} (destinée, vie, mort, passé)	&	During this {\color{red} \textbf{conflict}} the {\color{red} \textbf{forces}} of the Northern {\color{red} \textbf{Realms}} perpetrated unpardonable {\color{red} \textbf{atrocities}}, for which {\color{red} \textbf{reprisals}} came first with the {\color{red} \textbf{Battle}} of the Marnadal Valley and then with the Cintrian {\color{red} \textbf{Incident}}. \textit{(The Witcher 3)}\\
+\textbf{Talents, mini-jeux} (crochetage, piratage)	&	{\color{blue} \textbf{Collecting}} seed samples... {\color{blue} \textbf{Successfully collected}} 5 packets of genetically modified corn seeds. Depositing packets to {\color{blue} \textbf{collection container}}... {\color{blue} \textbf{Success}}. \textit{(Fallout 2})\\
+\end{tabular}
+}
+\end{adjustwidth}
+\end{frame}
+
+\begin{frame}{}
+
+\includegraphics[scale=0.5]{./img/frise}
+
+\end{frame}
+
+\begin{frame}{}
+
+\includegraphics[scale=0.25]{./img/doc-support}\\
+
+\includegraphics[scale=0.3]{./img/pokeweb}
+\includegraphics[scale=0.3]{./img/mines_corbel}
+\end{frame}
+
+
+\begin{frame}{}
+
+\includegraphics[scale=0.4]{./img/hackaton}
+
+\end{frame}
+
+\begin{frame}{}
+\begin{center}
+\includegraphics[scale=0.4]{./img/HL}
+\end{center}
+\end{frame}
+
+\begin{frame}{}
+
+\begin{tikzpicture}[scale=0.09]
+\pgfmathsetmacro\fsize{87};
+\pgfmathsetmacro\xorg{20};
+\pgfmathsetmacro\yorg{20};
+\pgfmathsetmacro\xdlcorner{-11};
+\pgfmathsetmacro\ydlcorner{-23};
+\pgfmathsetmacro\stepunit{25};
+
+\coordinate (dlcorner) at (\xdlcorner,\ydlcorner);
+
+\draw[black,line width=0.4mm] (dlcorner) -- +(0,\fsize) -- +(\fsize,\fsize) -- +(\fsize,0) -- +(0,0);
+\draw[dotted,black,line width=0.4mm] (\xdlcorner+2.5,\yorg) -- (\xdlcorner+\fsize,\yorg);
+\draw[dotted,black,line width=0.4mm] (\xorg,\ydlcorner+1.8) -- (\xorg,\ydlcorner+\fsize);
+
+\begin{scope}[every node/.style={font={\scriptsize}}]
+\node at (32,\ydlcorner+1){\textbf{ Factor 1 (25.03\%)}};
+\node at (\xorg-\stepunit,\ydlcorner+1){\textbf{-1}};
+\node at (\xorg,\ydlcorner+1){\textbf{0}};
+\node at (\xorg+\stepunit,\ydlcorner+1){\textbf{1}};
+\node at (\xorg+2*\stepunit,\ydlcorner+1){\textbf{2}};
+\node[rotate=90] at (\xdlcorner+1.7,7){\textbf{ Factor 2 (17.91\%)}};
+\node at (-9.6,\yorg){\textbf{0}};
+\node at (-9.4,\yorg-\stepunit){\textbf{-1}};
+\node at (-9.6,\yorg+\stepunit){\textbf{1}};
+\end{scope}
+
+\path plot[mark=*,mark size=4mm] coordinates {(50.375,17.7) (17.55,16.5) (38.05,29.475) (36.975,14.2) (48,27.3) (3.75,40.325) (22.725,30.85) (43.425,9.675) (26.3,25.2) (11.325,34.15) (21.5,28.625) (42.35,23) (52.35,24.175) (21.1,17.45) (11.675,21.475) (13.125,30.05) (26.825,15.95) (27.525,26.425) (27.925,45.7) (61.05,45.15) (61.225,41.05) (59.175,40.275) (50.325,26.45) (45.675,23.1) (40.3,19.1) (23.9,33.1) (39.675,11.275) (5.875,39.75) (25.175,36.025) (55.55,16.05) (36.725,50.2) (44.175,15.075) (7.1,33.65) (11.575,33.15) (37.125,30.225) (37.75,40.6) (26.55,12) (41.025,18.75) (22.475,17.95) (33.275,35.625) (42.35,36.95) (48.3,13.925) (14.175,15.7) (4.475,36.775) (26.05,11.25) (49.275,12.275) (39.775,5.925) (26.175,19.975) (52.4,16.6) (50.475,26.55) (44.65,18.575) (22.65,37.05) (47.725,19.125) (31.725,24.325) (8.275,27.575) (51.9,26.275) (61.425,26.25) (-0.225,32.95) (15.65,7.825) (31.525,17.675) (39.65,10.6) (40.175,9.95) (12.55,32.85) (30.125,19.625) (33.55,9.125) (18.5,5.825) (72.575,40.525) (56.15,26.175) (16.075,10.075) (16.275,11.175) (11.45,25.375) (11.05,12.45) (17.425,-0.725) (31.725,45.35) (47.675,36.775) (43.6,24.9) (22.725,-2.05) (38.65,34.075) (8.775,38.025) (33.075,19.4) (35.6,18.525) (17.1,13) (26.175,14.275) (42.05,33.775) (7.6,28.075) (20.475,11.2) (56.075,37.15) (48.9,20.3) (-6.85,36.875) (42.925,30.3) (50.725,23.225) (34.225,43.65) (2.425,35.7) (44.425,40.975) (18.6,31.075) (26.875,22.65) (19.1,28.525) (36.9,24.075) (9.05,7.975) (37.85,15.275) (10.025,-12) (39.525,18.975) (24.725,25.025) (7.075,16.425) (9.125,26.875) (21.2,15.275) (18.775,21.075) (48.95,15.9) (45.525,38.075) (34.125,16.85) (18.625,37.225) (18.525,39.225) (37.925,43.825) (39.825,28.25) (21,24.2) (46.425,22.525) (29.2,33.425) (34.7,23.375) (56.675,33.9) (19.75,38.05) (15.025,12.525) (16.15,2.025) (1.675,31.5) (15.55,19.65) (26.7,9.8) (42.3,24.65) (6.775,28.775) (28.275,16.475) (17.075,27.075) (30.05,25.375) (27.15,19.25) (37,29.25) (2.225,38.925) (32.725,21.325) (26.1,16.425) (12.3,26) (12.25,28.525) (49.525,22.575) (41.625,31.4) (23.175,23.2) (-4.5,36.85) (8.55,-22.125) (29.75,21) (17.3,6.975) (24.075,25.05) (20.95,23.7) (20,22.65) (9.025,27.725) (-0.5,33.45) (10.575,39.95) (8.45,12.025) (7.95,17.225) (23.625,1.675) (24.65,10.575) (10.6,23.5) (5.975,16.65) (64.95,38.1) (12.5,26.675) (30.025,21.925) (31.425,15.975) (49.6,7.975) (28.925,19.1) (31.3,17.35) (12.325,36.575) (41.95,40.975) (34.275,10.525) (-2.475,35.925) (3.725,31.55) (37.525,18.9) (43.9,17.45) (11.25,36.875) (37.225,28.55) (44.075,2.925) (8.175,27.675) (49.075,29.7) (15.4,18.175) (30.45,13.325) (14,28.85) (9.725,-20.2) (21.625,27.8) (20.925,20.225) (25.575,17.625) (17.675,10.825) (18.875,30.325) (26.925,21.425) (16.45,21.375) (18.35,19.375) (29.1,31.4) (27.325,26.4) (16.3,32.35) (32.025,25.8) (34.675,31.975) (27.875,7.625) (22.45,26.55) (30.05,29.375) (29.175,30.075) (15.825,21.075) (33.125,23.275) (32.825,25.475) (25.075,6.175) (31.55,20.55) (30.75,28.375) (13.975,26.1) (24.65,21.675) (37.375,30.725) (15.15,16.9) (30.2,25.175) (24.725,17.85) (24.65,16.85) (20.2,24.2) (42.35,34.775) (16.3,15.775) (28.1,23.975) (25.925,14.425) (18.525,21.425) (31.6,12.7) (19.425,21.975)};
+
+\begin{scope}[every node/.style={font={\tiny},inner sep=1pt,fill=white}]
+\node[draw] (Kadran) at (18.95,15.075){{Kadran}};
+\node[draw] (BSG3143) at (28.55,26.925){{BSG3143}};
+\node[draw] (BNF1339) at (41.025,26.95){{BNF1339}};
+\node[draw] (Nicolas-Chuquet) at (13.675,26.7){{Nicolas Chuquet}};
+\node[draw] (BNF25) at (15.525,5.5){{BNF2050}};
+\node[draw] (BNF10259) at (25.825,30.975){{BNF1259}};
+\node[draw] (Traicte-praticque) at (9.175,25.45){{Traicte praticque}};
+\node[draw] (Nantes456) at (29.825,14.125){{Nantes456}};
+\end{scope}
+
+\node (trouver)at (8.175,27.675){};
+\node (demander)at (11.575,33.15){};
+\node (item)at (17.1,13){};
+\node (requerir)at (-0.5,33.45){};
+\node (convenir)at (5.875,39.75){};
+\node (faire)at (11.45,25.375){};
+\node (vouloir)at (14,28.85){};
+\node (montrer)at (13.975,26.1){};
+\node (digit)at (49.275,12.275){};
+\node (article)at (52.35,24.175){};
+\node (nombre-compo)at (48.95,15.9){};
+\node (figurer)at (25.075,6.175){};
+\node (dire)at (27.875,7.675){};
+\node (raison)at (16.25,15.775){};
+\node (nombrateur)at (20.75,15.5){};
+
+\begin{scope}[every node/.style={font={\footnotesize}}]
+\draw[black,<-,line width=0.2mm] (trouver) -- +(-4,0)node[left]{trouver};
+\draw[black,<-,line width=0.2mm] (demander) -- +(-4,-3)node[left]{demander};
+\draw[black,<-,line width=0.2mm] (item) -- +(3,0)node[right]{item};
+\draw[black,<-,line width=0.2mm] (requerir) -- +(-2,0)node[left]{requerir};
+\draw[black,<-,line width=0.2mm] (convenir) -- +(0,3)node[above]{convenir};
+\draw[black,<-,line width=0.2mm] (faire) -- +(-3,-2)node[left]{faire};
+\draw[black,<-,line width=0.2mm] (vouloir) -- +(4,1)node[right]{vouloir};
+\draw[black,<-,line width=0.2mm] (montrer) -- +(2.5,-2.2)node[below]{montrer};
+\draw[black,<-,line width=0.2mm] (digit) -- +(4,-1)node[right]{digit};
+\draw[black,<-,line width=0.2mm] (article) -- +(4,0)node[right]{article};
+\draw[black,<-,line width=0.2mm] (nombre-compo) -- +(4,-1)node[right]{nombre composé};
+\draw[black,<-,line width=0.2mm] (figurer) -- +(4,-3)node[right]{figurer};
+\draw[black,<-,line width=0.2mm] (dire) -- +(4,-1)node[right]{dire};
+\draw[black,<-,line width=0.2mm] (raison) -- +(-4,-2)node[left]{raison};
+\draw[black,<-,line width=0.2mm] (nombrateur) -- +(-4,3)node[left]{nombrateur};
+\end{scope}
+
+\end{tikzpicture}
+
+\end{frame}
+
+\end{document}

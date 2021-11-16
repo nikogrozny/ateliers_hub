@@ -1,0 +1,20 @@
+ms chest replenishes itself every week short short reward begin if gt set to set reward to player set reward to reward gold reward end
+ms script activates linked parent object once short triggered ref target ref myself begin player if triggered set triggered to set target to set myself to target activate myself ms mino ref enable ms mino ref player ms mino ref enable ms mino ref player end begin set triggered to end
+this gate is opened elsewhere
+script activated by linked child activates optionally linked parent after sec delay short activated short open short next short busy float timer short closed ref myself ref begin if activated set myself to set to set activated to if player if open message this gate is opened elsewhere myself amp amp busy if open backward set open to set next to set timer to set busy to end begin if closed forward set closed to daisy chain activation if next amp amp timer lt set next to activate myself if timer gt set timer to timer if amp amp busy set busy to end
+begin set timer to set stage to end
+begin if gt set timer to set stage to end
+begin ms end begin ms end begin end
+begin ms end begin ms end begin end
+ms begin if ms health end begin end begin end
+ms begin if ms health end begin end begin end
+ms begin if ms health end begin end begin end
+ms begin if ms health end begin end begin end
+ms begin if ms health end begin end begin end
+begin aggression aggression aggression end
+begin end begin end
+ms short done begin if done if ms undressing amp amp player amp amp ms lt amp amp player set done to ms end
+ref begin if gt set to if player activate end
+begin if player ll ll ll end
+begin if player ll end
+begin if player ll necromancer ll necromancer ll necromancer end

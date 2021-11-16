@@ -1,0 +1,20 @@
+begin sound rock crumble if if rock and roll rock and roll end
+begin sound if if end
+begin sound if if end
+begin sound if if end
+begin sound if if end
+begin sound if if end
+begin sound water break if if waterfall waterfall end
+begin sound waterfall if if waterfall small waterfall small end
+begin short short if return set to shrine trigger triggered if gt cast fireball player set to set shrine trigger triggered to set to end
+begin short enabled short if enabled if ms adulterer lt gt disable return if lt if gt gt disable return if player gt set to set to else return if if gt if lt gt enable set enabled to set enabled to else return else return end
+begin short short enabled float float timer short walked short short short short if return if ms adulterer gt disable if disable set to if ms adulterer lt return if ms adulterer gt if gt gt player set to if enabled if ms adulterer enable set enabled to if set to if journal ms adulterer if lt return if enabled if player gt if player lt set to set enabled to journal ms adulterer if if gt if player lt you re too close get farther away before he realizes you re following him set to if set timer to timer if timer gt if player lt set to else if lt good he didn t see you set timer to set to if walked set to if gt set to set walked to return if gt gt set to if gt set to gt set to if gt set to gt set to if gt set to set walked to return gt gt set to if gt gt gt set to if gt checking distance to player if player lt journal ms adulterer gt gt set to gt gt set to if gt gt gt set to player end
+begin short initialized float timer float float short active if initialized set to z set to z set initialized to if set active to disarm trap if active if lt set to z else z end
+begin short float timer short chance short if set to if if goes to center set to if if set chance to random set timer to set to if if chance if set timer to timer if timer gt set to chance if set timer to timer if timer gt set to chance if set timer to timer if timer gt set to chance if set timer to timer if timer gt set to end
+begin script short short short short if change if lt if enable set to disable set to end
+begin if set change to end
+begin short change short short if if change disable set to return end
+begin short short short short short if if ms if gt disable set to if set to if if if if set to if if ms gt if disable set to end
+begin torch lever short float direction float short short float short state short move if return if if state state is down state is up idle moves lever down set state to set direction to else lever is stuck if black dart gt gt black dart gt if black dart malar gt gt black dart malar gt if black dart gt gt black dart gt if black dart gt gt black dart gt if direction return set to set to direction set to if direction if gt set direction to end torch lever
+this lever cannot be used until the machine is powered on
+begin tr lever for weather machine same script on all three levers short state the state of the lever down up short move if if act this lever cannot be used until the machine is powered on else if tr lt if tr gt this lever is being held in place by a mysterious force return set move to if move animate the lever if state idle set state to else idle set state to set act weather to set move to end

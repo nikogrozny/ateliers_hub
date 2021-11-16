@@ -1,0 +1,20 @@
+emergency operations mode emergency protocol limited control status active the limited control order was issued successfully
+target firmware
+target handy firmware
+target firmware
+target firmware
+target firmware
+target sentry firmware
+target turret firmware
+emergency operations mode emergency protocol selective shutdown ii status inactive description connects to all linked robotic systems with the specified firmware and issues an emergency shutdown order overriding all other commands once selected the target cannot be changed select target
+emergency operations mode emergency protocol selective shutdown ii status active the selective shutdown was issued successfully
+target firmware
+target handy firmware
+target firmware
+target firmware
+target firmware
+target sentry firmware
+target turret firmware
+emergency operations mode emergency protocol selective shutdown i status inactive description connects to all linked robotic systems with the specified firmware and issues an emergency shutdown order overriding all other commands once selected the target cannot be changed select target
+emergency operations mode emergency protocol selective shutdown i status active the selective shutdown was issued successfully
+target firmware

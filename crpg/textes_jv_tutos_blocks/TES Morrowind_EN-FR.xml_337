@@ -1,0 +1,20 @@
+none may enter the high chapel unless summoned by the goddess
+begin short done if done return if if tr lt none may enter the high chapel unless summoned by the goddess else set done to activate end
+begin collide damage hurts and standing actor pts per sec when colliding with this object end
+begin collide damage kill hurts and standing actor pts per sec when colliding with this object end
+begin contract calvus this global script records the start month and day of calvus s mercenary contract and the days left in calvus s mercenary contract short contract calvus if calvus has a mercenary contract set through dialogue on this short setup if setup has been done short for decrementing days left in calvus s contract short cleanup true if you want to cleanup all the flags contract is over and can be reset short the day of the contract defined as global variable short the month of the contract defined as global variable short contract calvus days left days left in calvus s contract defined as global variable global short contract calvus if setup if calvus horatius contract calvus set to day set to month set setup to set contract calvus days left to this is the number of days left in calvus s mercenary contract if return if calvus horatius gt contract calvus return if calvus horatius contract calvus if end contract otherwise count down the days left on the contract and check to see if the contract is over if calvus horatius lt set cleanup to if day if day set contract calvus days left to contract calvus days left set to day if month if day gt set cleanup to if cleanup this gets called when the contract is over and everything can be cleaned up set calvus horatius contract calvus to set calvus horatius companion to calvus horatius gt set setup to set to set to set cleanup to end contract calvus
+begin short if return if tr lt if enable return if if set to disable end
+begin short deathbed float if deathbed return set to if lt if lt resurrect set deathbed to if deathbed end
+begin db short short if return if tr if journal tr if if tr if player gt ebony dart db unique gt journal tr set to if return if player lt player set to end db
+census and excise office
+you are awakened by a loud noise
+you are awakened by a loud noise
+you are awakened by a loud noise
+you are awakened by a loud noise
+you are awakened by a loud noise
+begin float short short short short short short short temp short if tr gt return if player gt gt set to else if player gt gt set to else if player gt gt set to else if player gt gt set to else set to if census and excise office return if journal tr set to if if return set to set to random set to if set to if lt you are awakened by a loud noise set to if gt set to set temp to while temp db assassin set temp to temp set to if return set to set to else if set to if lt you are awakened by a loud noise set to if gt set to set temp to while temp db assassin set temp to temp set to if return set to set to else if set to if lt you are awakened by a loud noise db assassin set to if return set to set to else if set to if lt you are awakened by a loud noise db assassin set to if return set to set to else if set to if lt you are awakened by a loud noise db assassin b set to if return set to set to else set to end
+census and excise office
+you are awakened by a loud noise
+you are awakened by a loud noise
+you are awakened by a loud noise
+you are awakened by a loud noise

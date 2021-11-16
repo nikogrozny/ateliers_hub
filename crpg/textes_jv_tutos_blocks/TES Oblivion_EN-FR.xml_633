@@ -1,0 +1,20 @@
+short active float timer begin if nd amp amp active set active to set timer to say say player player player player player player player player player end begin if active set timer to timer if timer lt set active to end
+short active float timer begin if nd amp amp active set active to set timer to say say player player player player player player player player player end begin if active set timer to timer if timer lt set active to end
+short active float timer begin if nd amp amp active set active to set timer to say say player player player player player player player player player end begin if active set timer to timer if timer lt set active to end
+short active float timer begin if nd amp amp active set active to set timer to say say player player player player player player player player player end begin if active set timer to timer if timer lt set active to end
+short active float timer begin if nd amp amp active set active to set timer to say say player player player player player player player player player end begin if active set timer to timer if timer lt set active to end
+short active float timer begin if nd amp amp active set active to set timer to say say player player player player player player player player player end begin if active set timer to timer if timer lt set active to end
+short active float timer begin if nd amp amp active set active to set timer to say say player player player player player player player player player end begin if active set timer to timer if timer lt set active to end
+short active float timer begin if nd amp amp active set active to set timer to say say player player player player player player player player player end begin if active set timer to timer if timer lt set active to end
+begin nd end
+nd reworked with explicit ref to avoid the parent link nightmares enables linked parent object once for loading creatures amp when the player reaches a specific point short triggered ref target begin player if triggered set triggered to set target to nd enable if nd nd nd nd end
+nd ascript reworked with explicit ref to avoid the parent link nightmares enables linked parent object once for loading creatures amp when the player reaches a specific point short triggered ref target begin player if triggered set triggered to set target to nd enable if nd nd nd nd end
+nd reworked with explicit ref to avoid the parent link nightmares enables linked parent object once for loading creatures amp when the player reaches a specific point short triggered ref target begin player if triggered set triggered to set target to nd enable if nd nd nd nd end
+nd ascript reworked with explicit ref to avoid the parent link nightmares enables linked parent object once for loading creatures amp when the player reaches a specific point short triggered ref target begin player if triggered set triggered to set target to nd ref enable if nd nd nd nd end
+nd short begin if player nd nd set to end
+dummy script to allow magic effects to display right in interface
+dummy script to allow magic effects to display right in interface
+begin if player player disable end begin player player set to quest script will remove the other weapon end
+activates parent after a sec delay short open short next short busy float timer ref myself ref begin if busy if open forward set open to set next to set timer to open message this turn handle is locked in place set busy to end begin if next amp amp timer lt set myself to set to activate myself set next to if amp amp busy set busy to if timer gt set timer to timer end
+begin saa end begin saa end
+nd short short begin starts announcement when player and are both outside if nd fin if nd lt if player lt look nd nd nd fin if nd fin gt amp amp nd fin lt amp amp if nd nd if nd nd if nd nd if nd nd if nd nd if nd nd if nd nd set to end

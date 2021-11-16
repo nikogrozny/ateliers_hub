@@ -1,0 +1,20 @@
+script come within range and this thing will shoot a fireball at you range is float timer short ready short disabled short begin if player if disabled set disabled to set timer to else set disabled to end begin if amp amp disabled if player lt amp amp timer lt forward set ready to set timer to this section will choose the trap spell based on the pc s level hopefully if player lt set to player gt amp amp player lt set to player gt amp amp player lt set to player gt amp amp player lt set to player gt set to if timer lt amp amp ready amp amp gt check to make sure player is still in range if player lt debug message message rank f freezy spell if cast novice player cast apprentice player cast journeyman player cast expert player cast master player set ready to set to if timer gt set timer to timer end begin reset set to end
+short temp begin activate if player the post guards so they don t follow you outside end begin set temp to player if greeting amp amp player player set greeting to end
+short short short short short short short short short short short short short short short short short
+this is just a holding spot for variables short for oblivion gate conversations ref set when dies for soldiers cheering
+begin if if player end
+begin if if player end
+begin if if player end
+begin if if player end
+begin if if player end
+begin if if player end
+begin if if player end
+e activates linked parent object once short triggered begin player if triggered set to player e set triggered to end
+ms short stolen script on the statues in s house begin player set ms stolen to set stolen to end begin player set stolen to end
+mg short begin if set mg information to mg information set to end
+ms this script turns on when player walks near his house in short done begin if done if player lt set done to enable ms end
+this script handles s spellcasting on every night in the mages guild basement before the player completes quest mg short short day begin if mg lt if mg lt amp amp lt if if gt set day to cast mg set to if day if mg set to end
+script self activated no trigger required short activated float timer float float float short begin if activated set up the damage values set to set to set to set to set activated to else if player lt amp amp timer lt forward set timer to if lt amp amp timer lt forward set timer to if timer gt set timer to timer end
+short short dialogue short ref target float float begin if halo if lt if player lt if set dialogue to set to if dialogue set to say greeting set dialogue to dialogue if gt set to else set dialogue to dialogue grand cast journeyman set dialogue to if dialogue if gt aggression set dialogue to else set to if if set target to if target player set to aggression player end
+ms begin forward end
+this gate is opened remotely

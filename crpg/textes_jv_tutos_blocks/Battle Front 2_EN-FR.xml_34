@@ -1,0 +1,20 @@
+remove
+remove all
+reset to defaults
+save session
+select all
+set the number of ai units per team for all space assault matches in your session
+set the score limit for all space assault matches in your session
+enable or disable individual player bonuses for this session
+adjust the percent of starting reinforcements per team for all conquest maps on your
+set the number of ai units per team for all conquest matches in your session
+set the time limit for all conquest matches in your session
+set the number of ai units per team for all and flag ctf matches in your session
+set the number of flags a team must capture to win for all capture the flag maps on your
+set the time limit for all and flag ctf matches in your session
+determine whether or not this will be a dedicated host
+adjust the percent of starting reinforcements per team for all team maps on your
+determine whether or not the hero will become available again after being defeated
+determine the amount of time that will elapse before the hero becomes available after being defeated
+set the condition that will cause the hero to become available to a player
+based on the above condition specify the details that will make the hero available to a player

@@ -1,0 +1,20 @@
+gate activates linked parent object once any object will activate this arrows objects short triggered ref target ref myself short short begin if triggered if right amp amp set target to set myself to target activate myself set to if left amp amp set target to set myself to target activate myself set to if amp amp set triggered to end begin set triggered to set to set to end
+gates activates linked parent object once any object will activate this arrows objects short triggered ref target ref myself short short begin if triggered if rd tower switch amp amp set target to set myself to target activate myself set to if rd tower switch amp amp set target to set myself to target activate myself set to if amp amp set triggered to end begin set to set to set triggered to end
+activates linked parent object once any object will activate this arrows objects short triggered ref target ref myself short short begin if triggered if right amp amp set target to set myself to target activate myself set to if left amp amp set target to set myself to target activate myself set to if amp amp set triggered to end begin set triggered to set to set to end
+activates linked parent object once any object will activate this arrows objects short triggered ref target ref myself short short begin if triggered if right amp amp set target to set myself to target activate myself set to if left amp amp set target to set myself to target activate myself set to if amp amp set triggered to end begin set triggered to set to set to end
+gates activates linked parent object once any object will activate this arrows objects short triggered ref target ref myself begin if triggered if gates set target to set myself to target activate myself set triggered to end begin set triggered to end
+you have opened a gate
+gates ref ref myself short opened short short busy begin if busy amp amp opened forward set to set myself to activate myself set busy to set opened to message you have opened a gate set to else if busy message you may not use this switch at this time else message the gate has already been opened end begin if set busy to end begin set opened to set to set busy to end
+begin if player if resurrect disable set to activate end
+begin if player if resurrect disable set to activate end
+begin if player if resurrect disable set to activate end
+begin if player if resurrect disable set to activate end
+begin if player if resurrect disable set to activate end
+begin if player if resurrect disable set to activate end
+begin if player if resurrect disable set to activate end
+the blessings of are upon you
+short short ref target begin if player if you already received your blessing this day else the blessings of are upon you cast player set to else set target to cast target end begin if days are numbered prevents first visit on day and being told you used it today set to set to end
+begin end for safety begin end
+this is just to turn subtitles on during the conversation between martin and countess begin if amp amp end
+short short mounted begin set horses to end begin if amp amp mounted if message prior s horse has returned to priory set to end begin if set mounted to set to activate end
+short short mounted begin set horses to end begin if amp amp mounted if message has returned to fort set to end begin set to set mounted to activate end

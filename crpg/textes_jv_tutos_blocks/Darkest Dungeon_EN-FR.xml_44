@@ -1,0 +1,20 @@
+start marked
+s vs s
+s if start afflicted
+s if not start afflicted
+s on first round
+s after first round
+s while not camping
+s if in mode s
+s start melee skills
+s not start melee
+string s vs size decimal d
+string s vs not size decimal d
+s not vs s
+s vs s
+s not vs s
+s start ranged skills
+s not start ranged
+start riposte s
+string s if start stress above decimal d
+string s if start stress below decimal d

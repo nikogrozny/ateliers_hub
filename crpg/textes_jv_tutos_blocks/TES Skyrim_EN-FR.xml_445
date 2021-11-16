@@ -1,0 +1,20 @@
+for lt dur gt seconds undead in melee range take lt gt points sun damage per second
+drain effect to look for targets
+sunlight explosion that does lt mag gt points of damage in a foot radius to undead
+drains lt mag gt points of stamina per second for lt dur gt seconds
+drain vitality health
+drains lt mag gt points of health per second for lt dur gt seconds
+drains lt mag gt points of per second for lt dur gt seconds
+script ai flying effect
+script ai effect
+s bow effect
+spells in melee mode
+lightning that does lt mag gt points of shock damage to health and per second
+for lt dur gt seconds opponents in melee range take lt mag gt points shock damage and damage per second
+healer check effect
+healer effect to look for targets
+soul tear damage
+if target dies within lt dur gt seconds fills a soul gem
+sun damage
+undead targets takes lt mag gt points of sun damage
+soul cairn necro skeleton

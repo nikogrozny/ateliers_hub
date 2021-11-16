@@ -1,0 +1,20 @@
+ref ref myself short short busy begin if busy forward set to set myself to activate myself set busy to set to message you have opened the landslide gate else message you may not use this switch at this time end begin if set busy to end begin set to set busy to end
+cage is opened by a switch
+ref myself ref short init float short next short busy begin if player if next amp amp busy forward set next to set to set busy to else message cage is opened by a switch end begin if amp amp busy set busy to if init set myself to set to set init to timer for linked parent if gt set to daisy chain activation if next amp amp lt set next to activate myself end
+ref ref myself short busy short open short float timer begin if busy amp amp open forward set to set myself to set busy to set open to set timer to message you have released a caged prisoner busy message you may not use this switch at this time busy amp amp open message the caged prisoner has already been released set busy to end begin if timer gt set timer to timer if timer lt amp amp open amp amp activate myself set to if set busy to end
+you have opened a gate
+ref ref myself short opened short short busy begin if busy amp amp opened forward set to set myself to activate myself set busy to set opened to set to message you have opened a gate else if busy message you may not use this switch at this time else message the gate has already been opened end begin if set busy to end begin set opened to set to set busy to end
+ref myself ref short init float short next short busy begin if player if next amp amp busy forward set next to set to set busy to else message gears are activated by a switch end begin if amp amp busy set busy to if init set myself to set to set init to timer for linked parent if gt set to daisy chain activation if next amp amp lt set next to activate myself end
+dark short float short journal begin if set to if journal dark set journal to end
+begin end begin disable end
+short short begin how much drugs and cash are we dealing with set to set to ref deliver drugs to courier ref get cash from courier ref gold gold end begin if clean out gold set to gold gold end begin deliver cash to drop barrel in waterfront set to set to if gt set to gold gold end begin cull gold from so it doesn t accumulate set to set to if gt gold end begin deliver cash to set to set to if gt gold gold end
+script short deliver all my to secret rock begin set to if lt end
+short completed short short float begin if set to set to set to set to set completed to completed end begin set completed to completed end begin if amp amp amp amp set to set completed to completed if completed tutorials end
+ms short begin if player amp amp player ms set to end
+ms short begin if player amp amp player ms set to end
+ms short begin if player amp amp player ms set to end
+ms short begin if player amp amp player ms set to end
+ref myself short init short begin if init set to set init to if gt myself end begin set init to set to end
+short begin if player if player if player player player if player player end
+these variables are for people in and generic short short short short short short short short short short short short short short short short short short short short short short var short short short short short short short short short short short short short short short short short short short short short begin if persuasion help screen done never show again if set to end
+dark short orders begin if orders dark set orders to end

@@ -1,0 +1,20 @@
+se begin if se set se to end
+se begin if gt the mysterious crystals have sealed the door else activate end
+se this covers scripting for chime and barrier blocking cell in for se short init short active short float timer begin set active to set to set timer to end begin if init set init to play sound when activated if active if set to d se animate associated objects if active set se cell chime to set active to run timer down stop shader and reset active var when it s done if active gt if timer lt se set active to else set timer to timer end
+se pr this covers scripting for chime and barrier blocking cell in pinnacle rock for se short init short active short float timer begin set active to set to set timer to end begin if init set init to if active if set to se d if active set se cell chime to set active to if active gt if timer lt se set active to else set timer to timer end
+se cell short begin if if se cell chime set to end
+se test script for using hit shader in pinnacle rock short how many bells are currently ringing hit shader increases in strength and frequency float timer timer for short how much to apply begin don t do anything while disabled if return how many bells are ringing set to if se ref active se ref active set to if se ref active se ref active set to if se ref active se ref active set to if se ref active se ref active set to if timer gt set timer to timer gt set to test playing a periodic sound player set timer to end
+se short begin if amp amp se disable set to end
+se ref ref begin set to se set to end
+script short open set to when open begin if open if se gt forward set open to end
+se short begin if if se ref enable se ref enable se ref enable set to end
+se prevents anyone from using the doors into the palace during the battle keep random and guards out begin if se gt amp amp se lt if player i need to help defend the palace from order s attack else activate end
+short this is the only variable that needs resetting when player exits sacellum short variable reset in each speech script begin these blocks reset everything when the player leaves the sacellum cell if se if if player set to set to if se if if player set to set to end
+this script keeps the player from breaking the summon by summoning and quickly fast travelling with this is set in the on if the player isn t in the same cell this script then resets all of s variable as they would be if the player remained in the cell with him and script were still updating every frame short begin if set to set to set to set to set summoned to set to set to set to end
+short for use with linkage short for use with linkage
+short for use with linkage short for use with linkage
+this script is placed on and is used for stage update for se when player arrives in cell begin if if se if player lt se end begin enable activate end
+se begin if se lt if player the door is sealed and will not open else activate end
+se begin player se end
+se short conv short float begin if if set to if se if se lt set to if conv if se look se else look se look set to se set conv to conv if lt if se look se else look se look set to se se set conv to else set to conv if lt se player set conv to else set to end
+se begin player aggression end

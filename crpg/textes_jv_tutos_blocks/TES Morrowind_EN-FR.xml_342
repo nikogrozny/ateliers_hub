@@ -1,0 +1,20 @@
+you feel a powerful force interrupt the mazed band s spell and pull you toward
+you feel a powerful force interrupt the mazed band s spell and pull you toward
+you feel a powerful force interrupt the mazed band s spell and pull you toward
+begin script short button short short reset short if return if set reset to if reset return if if reset set to use the to teleport where sil nowhere if tr set to else set to if set button to if button gt set to if button conjuration hit player gt high fane set reset to button conjuration hit player gt temple high chapel set reset to sil button conjuration hit player gt sil dome of sil set reset to return button set reset to return if set button to if button gt set to if button you feel a powerful force interrupt the mazed band s spell and pull you toward conjuration hit player gt temple high chapel set reset to button you feel a powerful force interrupt the mazed band s spell and pull you toward conjuration hit player gt temple high chapel set reset to sil button you feel a powerful force interrupt the mazed band s spell and pull you toward conjuration hit player gt temple high chapel set reset to return button set reset to return end
+begin short if return if return if player gt mazed band gt if journal tr set to end
+begin mercenary calvus local script note make sure mercenary has hello short short companion short contract calvus float float timer short short if return if lt return if return if set to set to return this section handles getting rid of calvus during the duel if if king lt set to if king gt set to this section handles changes in state when calvus leaves a contract either because the contract expires or because the player has taken calvus stuff if merc calvus quit lt if calvus has already quit don t do this if contract calvus if calvus doesn t have a contract don t do this if lt handles calvus quitting because player took his stuff pushing this ai package on removes the follow package set companion to contract calvus set contract calvus to return else if contract calvus handles calvus after a contract expires pushing this ai package on removes the follow package set companion to if merc calvus lt journal merc calvus tells player the first mercenary contract is expired else journal merc calvus tells player the most recent mercenary contract is expired if companion return if timer lt set timer to timer return if player lt if player lt set to set timer to return if say vo i m im mp where are you going set to end mercenary calvus
+begin float timer short mistakes float short if return if ms performers set timer to timer if timer gt journal ms performers if mistakes set to set mistakes to you made a mistake end
+the gates cannot be opened
+begin if the gates cannot be opened end
+royal palace reception area
+begin if return conjuration hit player gt royal palace reception area end
+begin short if return if if if set to lt set to if if set to if set to if if set to if if set to if set to end
+begin museum if lt disable if enable if player gt robe lich unique item clothes up disable set to end
+begin if lt disable if enable if set to activate player gt ebony bow x player gt ebony bow end
+begin if lt disable if enable if set to activate player gt ebony shield x player gt ebony shield end
+begin if lt disable if enable if set to activate player gt bipolar blade x player gt bipolar blade end
+begin if lt disable if enable if set to activate player gt spear mercy unique x player gt spear mercy unique end
+begin if lt disable if enable if set to activate player gt boots apostle unique x player gt boots apostle unique end
+begin if lt disable if enable if set to activate player gt boots of blinding speed x player gt boots of blinding speed unique end
+begin if lt disable if enable if set to activate player gt x player gt end

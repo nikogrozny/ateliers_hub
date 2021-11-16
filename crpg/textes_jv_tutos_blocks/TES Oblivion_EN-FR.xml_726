@@ -1,0 +1,20 @@
+may the shadows devour you
+short short short ref target begin if player amp amp set to end begin if player if message ichor of is required to activate the altar forward message the shrine to is now active player set to if you already been blessed this day gt recant your honorable nature and you shall be rewarded lt amp amp lt cast player may the shadows surround you set to lt amp amp gt amp amp lt cast player may the shadows guide you set to lt amp amp gt amp amp lt cast player may the shadows embrace you set to lt amp amp gt cast player may the shadows devour you set to end use restriction below copied from chapel altars begin if set to set to end
+short slay short short short short success short short leaves short home float float this makes the dark minion look like he has left the lair begin if leaves if player disable set slay to set to set leaves to else disable set slay to set to set leaves to end begin this checks for a successful kill after about a day if amp amp set home to set to set to set to if if gt set to if lt your dark minion has performed his dark deed another soul belongs to your infamy has increased by set to set success to set to set to else your dark minion has failed his task set to set to set to this puts the minion back where he was if amp amp home enable set leaves to set home to end this puts things in the loot chest for slaying begin if success ll ll ll magic ll ll ll ll ll set success to end
+short eat float short die begin if end
+feed on your prisoner
+you cannot wake the prisoner
+short knockout short button begin if player if player feed on your prisoner yes no else you cannot wake the prisoner end begin if knockout amp amp set knockout to set button to if player if button gt if button player end
+short done begin if player if done enable activate set done to else activate end
+poison chokeberry effect
+bedroom area
+dining area
+study area
+storage area
+bloodstained note
+victim s loot chest
+s poison supply
+poison fruit
+set to player player
+enable
+i now purchased everything rowley had available for hollow

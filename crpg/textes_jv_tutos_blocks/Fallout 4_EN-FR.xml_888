@@ -1,0 +1,20 @@
+a firework mortar can be loaded with firework shells which it will then fire as long as it has power you can change the firing delay by using a terminal connected to the same power grid firework shells of different types can be crafted at a chemistry station or you can create them using a pyrotechnics mill builder
+a builder is used to create new objects out of the objects in its inventory you can place objects into it directly or attach a conveyor belt to feed items into it automatically the builder will continue to create new objects as long as it has power and the required objects or components in its inventory to change what a builder creates use a terminal connected to the same power grid
+use logic gates to create more sophisticated setups with the power grid logic gates have two points to attach wires input and output there are two basic types and or these gates act like switches they transmit power or not depending on the combination of power to their inputs and transmits power if all inputs have power or transmits power if any input has power transmits power if exactly one input has power not nor these gates only transmit power if their inputs are connected directly to the output of other logic gates not and nor transmits power when no inputs have power transmits power unless all inputs have power transmits power when all inputs are the same powered or
+contraptions workshop logic gates
+combat armor medium
+combat armor light
+combat armor heavy
+metal armor medium
+metal armor light
+metal armor heavy
+leather armor heavy
+leather armor medium
+leather armor light
+the mortar can only hold one type of shell at a time
+you can only place weapons on the rack
+you can t put any more weapons on the rack
+toggles power on and off when triggered
+plays an effect when powered use a connected terminal to change the sound
+plays a musical tone when powered use a connected terminal to change the pitch
+stores objects delivered by a conveyor belt

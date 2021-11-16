@@ -1,0 +1,20 @@
+begin short button short this part gives you your choice on activating the door if do you wish to crawl through this space yes no set to if set button to resets the variable so you can use the door multiple times if button gt set to should send you through the door normally if button activate should just reset the script allowing you to do it again button set button to return end
+begin plague short short level short short float float float if return if ms if set level to player gt level set to level set to level set to level set to if if player lt set to if journal ms end plague
+begin short short if ms lt if disable ms gt if enable ms gt if disable if ms gt if crimson plague set to end
+begin short if ms lt if disable ms if enable ms gt if disable if set to end
+begin a if ms lt if disable ms if enable ms gt if disable if set to end a
+begin if ms lt if disable ms if enable ms gt if disable end
+begin short short if if ms gt if ms lt journal ms if ms if rat plague hall a set to end
+begin short short if ordinator mh gt if ms lt if disable ms gt if enable ms gt if disable if ms gt if set to if ms gt if end
+begin if ms lt if disable ms gt if enable end
+begin if ms lt if disable ms gt if enable ms gt if disable end
+begin float timer short initialized short if initialized set initialized to set timer to if if d door stone open set to if timer lt x set timer to timer else x door stone open end
+begin short float timer short initialized if initialized set initialized to set timer to if if d door stone open set to if timer lt x set timer to timer else x door stone open end
+begin short float timer short active if ms gt if if if set active to set to set timer to if active if timer lt move z set timer to timer else set active to z set to d disarm trap journal ms end
+begin note that this is a placeholder script final script will set the var after several days float timer short if if if set to set to activate end
+begin short if if player lt a rancid stench nearly overwhelms you this is not the smell of the dead there is something else here set to end
+begin short if return if set to if if player end
+begin short short button short if return if if player gt misc weather gt place the coherer in the junction box yes no set to if set button to if button gt set to if button misc weather gt enable player gt misc weather journal tr set to button return end
+begin short short if if tr lt disable else if tr gt if enable if if if lich profane unique gt journal tr set to end
+begin float float timer float float float float float short proximity short triggered short short short initialized if return if initialized set proximity to range for mine set to time for mine to reset itself set initialized to set to x set to y set to z set to z if triggered set timer to timer if timer gt set triggered to set timer to return set to player if lt proximity set triggered to if set to random set to player gt if lt return end
+begin float float timer float short proximity short triggered short short short short initialized if return if initialized set proximity to range for mine set to time for mine to reset itself set initialized to if triggered set timer to timer if timer gt set triggered to set timer to return set to player if lt proximity set triggered to if set to random set to player gt if lt return must be touch range spells set to random if cast prox mine fire player cast prox mine frost player cast prox mine poison player cast prox mine shock player cast prox mine life player end

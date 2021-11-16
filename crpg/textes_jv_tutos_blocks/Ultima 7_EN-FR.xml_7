@@ -1,0 +1,20 @@
+wait
+special
+goto item
+grab item
+drop item
+ready hand
+move item
+light
+check area
+none
+check area
+wait for semaphore
+ready weapon
+unready weapon
+combat near
+a mode t
+p op weapon r dex
+raining points
+enter no of reserve dex points
+enter no of experience pts

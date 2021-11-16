@@ -1,0 +1,20 @@
+damage chest
+damage
+damage left arm
+damage head
+damage right arm
+increased damage resistance
+script ref this script is to prevent ai from following you between and so we don t overload on begin set to if player activate else only check the door between and if check if they are in combat they are stop combat and don t let them use the door return else they aren t so let them go activate else activate end
+jorge short begin set to if player if a a return end
+this one runs the first time that players enter gomorrah s courtyard and places readily visible for them jorge short float begin set to return set to return player set to return a disable end
+failsafe veronica locks this door when she starts talking to the intercom to prevent a transition which can mess things up with hv s state she unlocks it at the end of the intercom conversation if she dies in the middle of the conversation unlock the door short begin player if unlock disable end
+begin player if end
+int begin player if if the player freed the legionaries in the intake tower send them off set to player set to end
+int begin player if the player freed the intake tower centurion at least two more legionaries spawn if ref enable ref enable enable the legionaries coming up from the power plant if the player directed the intake tower centurion to send his men here if ref enable ref enable set to end
+int ref actor float float int player can t talk to sleepy white gloves can loot if else activate end set to set to set actor to if set to end set to if if set to set to set to if set to set to variable variable set to if variable set to set to end begin activate actor set to end
+short begin player if set to disable end
+short script blocker float timer timer used for animation control set timer to set to set timer to timer if timer set to if timer if set to arcade is giving his armor to the pc set to arcade is keeping his armor set to end
+begin set fail to end
+jorge float time float timer begin set time to if time time if forward backward forward turn on forward backward set timer to timer if timer backward set timer to time time if left right left turn off left right set timer to timer if timer right set timer to end
+float timer fatigue if fatigue if fatigue if fatigue if ref if timer set timer to timer else make thugs attack player set ref to end
+ref begin set to if disable end

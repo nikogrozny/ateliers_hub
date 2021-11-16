@@ -1,0 +1,20 @@
+terrain from the height field map
+portal layer same setup as but used differently by game code
+trigger type for stream lined actor only trigger boxes
+static object that is very thin only collides with larger projectiles
+same as l transparent small but animated
+used for collision geometry attached to ward magic visuals
+a character controller
+a helper object to smooth character controller amp traversal of steps
+we need this to allow collision with the actor s instead of its character controller
+avoid box cast in front of the character
+sphere around the camera collides only with phantom objects
+used for cone projectiles which ignore hits with certain collision layers
+player camera
+line of sight pick
+this trigger type is used for the falling traps and should get trigger events when it collides with any visible
+static object that is very thin no projectile collision
+object the is not with character
+non projectile weapon
+custom layer used for critters should receive hits from weapons spells but not collide with characters or the world
+special shell casing layer for casing sounds

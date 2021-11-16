@@ -1,0 +1,20 @@
+creates a magic battle axe for lt dur gt seconds sheathe it to dispel
+lightning that does lt mag gt points of shock damage to health and per second
+a blast of cold that does lt mag gt points of damage per second to health and stamina
+a gout of fire that does lt mag gt points per second targets on fire take extra damage
+script effect
+increases armor rating by lt mag gt points and negates up to lt mag gt points of spell damage or effects
+a blast of fire that does lt mag gt points of damage targets on fire take extra damage
+resist magic
+stamina damage
+shock damage
+damage
+frost damage
+fire damage
+absorb health
+resist poison
+resist magic
+resist fire
+fortify light armor
+fortify heavy armor
+fortify health

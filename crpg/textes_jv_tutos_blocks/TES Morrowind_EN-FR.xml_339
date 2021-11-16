@@ -1,0 +1,20 @@
+begin enable teleport end
+begin short if tr lt if disable if tr gt if if enable set to end
+hit pc
+hit else
+begin explosion pushout float float curval float short short state short initialized if return if initialized make a prop set to set curval to x set to curval set state to set initialized to if state set to set to set curval to curval x curval if hit pc player gt if hit else if lt set to curval else set to curval if gt explosion complete f disable set state to end
+begin fab attack creature for attack short state if state guard attack return if enable set state to if tr lt journal tr else disable end
+begin fab attack creature for attack if enable guard attack else disable end
+begin fab attack disable enables rubble object during attack if disable end
+begin fab attack enable enables rubble object during attack if enable else disable end
+begin fab attack enable enables rubble object during attack if tr gt enable else disable end
+begin fab attack guards during the attack short state short if state return if lt return if if tr lt if player lt if say vo misc tr royal mp attack the creatures we must defend the city if journal tr set to set state to end
+begin fab attack guards during the attack short state short if state return if if tr lt if player lt if say vo misc tr mp take arms drive back these creatures if journal tr set to set state to end
+begin fab cent attack short if set to centurion steam c l if fab cent fight watcher fight state gt if end
+begin fab cent fight watch short fight state if return if fight state return if fight state if player lt journal tr set fight state to fight state if set fight state to fight state in all tribunal in all tribunal set fight state to end
+begin float timer float float float float float float float float float float short reset short initialized if initialized set to x set to z set to set initialized to if set to if gt if timer if reset set timer to random set timer to timer set timer to timer set to x set to set to rotate up if timer lt set to x set to rotate down timer lt set to x set to up again timer lt set to x set to reset timer to zero else set timer to set reset to set to x set to set to z else x z end
+random value is f lowest is f
+target is now f
+begin float lowest float highest float float current float float short short initialized if return if initialized set lowest to lowest water height set highest to highest water height set to height change in one second set initialized to set current to if set to set to random value should be highest lowest random value is f lowest is f lowest set to lowest target is now f if lt current if gt set to else if lt set to if current set to set current to current if lt if current lt set current to else if current gt set current to current else set to end
+begin short short if return if ms natural lt if disable if ms natural if enable if ms natural if if player lt set to if journal ms natural end
+begin short short short short float timer if return end quest if pc should happen to get lucky and kill him in one hit if journal ms natural get him away if the pc tries to attack if if ms natural if journal ms natural set to if ms natural if cast spell set to if disable journal ms natural end

@@ -1,0 +1,20 @@
+select scenario
+turn limit s turns
+capital map
+staging map
+load
+save
+save list is full to create another save will require deleting an existing item or you can overwrite an existing item
+load game
+new game
+no saved games available
+save game
+lt save as new gt
+attacker bonus
+attack planet
+defender bonus
+enemy controlled
+status s map name s planetary bonus s
+capital map s
+staging map s
+pick a planet to attack

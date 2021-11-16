@@ -1,0 +1,20 @@
+this effect lowers the value of one of a victim s attributes only strength intelligence willpower agility speed endurance personality and luck are affected any derived attributes are recalculated attributes do not return to their original values at the end of the spell s duration they can only be restored with the appropriate restore attribute spell or potion the magnitude is the units of attribute lost each second of duration
+this effect lowers the value of a victim s health any derived attributes are recalculated health does not return to its original value at the end of the spell s duration it restores normally or may be restored with a restore health spell or potion the magnitude is the units of health lost each second of duration
+this effect lowers the value of a victim s any derived attributes are recalculated does not return to its original value at the end of the spell s duration it restores normally or may be restored with a restore spell or potion the magnitude is the units of lost each second of duration
+this effect lowers the value of a victim s fatigue any derived attributes are recalculated fatigue does not return to its original value at the end of the spell s duration it restores normally or may be restored with a restore fatigue spell or potion the magnitude is the units of fatigue lost each second of duration
+this effect lowers the value of one of a victim s skills skills do not return to their original values at the end of the spell s duration they can only be restored with the appropriate restore skill spell or potion the magnitude is the units of skill lost each second of duration
+this spell creates a poison spray of acid that causes damage to the health of the victim a victim continues to lose health from the poison effect for the duration of the spell unless the poison effect is canceled by a cure poison spell or potion
+this effect decreases the target s resistance to damage from elemental fire
+this effect decreases the target s resistance to damage from elemental frost
+this effect decreases the target s resistance to damage from elemental shock
+this effect decreases the target s resistance to damage from non elemental magical effects
+this effect decreases the target s resistance to common disease
+this effect decreases the target s resistance to blight disease
+this effect decreases the target s resistance to disease
+this effect decreases the target s resistance to damage from poison
+this effect decreases the target s resistance to damage from normal weapons i e weapons not enchanted or silvered
+this effect damages the health rating of an equipped weapon on a touched or ranged victim
+this effect damages the health rating of an equipped piece of armor on a touched or ranged victim
+this effect conceals the presence of the subject from observers if the subject attacks speaks or activates an object the effect is dispelled this magnitude of this effect is not variable the subject is always invisible
+this effect lets the target blend into the surroundings so no one can see him the target can attack and use objects without disrupting the effect but chameleon may range from to effectiveness the effect s magnitude is the degree of concealment
+this effect creates a projectile of coherent light upon striking a target the projectile illuminates the area for the duration of the effect the light projectile does not cause any damage

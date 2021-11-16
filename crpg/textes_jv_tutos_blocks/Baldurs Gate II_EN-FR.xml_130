@@ -1,0 +1,20 @@
+that character is too far away
+enable this option only if the video card does not draw mirror images correctly
+import character
+enable this option only if the video card displays the color green around sprites
+enable this option if graphic anomalies appear in the game
+this slider controls the volume of miscellaneous sound effects
+this slider controls the volume of character dialog
+enable this option to play sounds during combat
+enable this option to hear footsteps and other sounds caused by creature movements
+enable this option to display subtitles for character sounds
+these buttons control how often the party characters will say their command sounds choosing always plays a sound every time a character is given a command choosing seldom plays a sound only when the character is selected and given its initial command choosing never disables command sounds
+this slider controls the difficulty level of the game the settings are as follows insane far right all monsters do double damage hard middle right all monsters do more damage core rules middle s gate rules apply normal middle left all hit point rolls are maximum characters cannot permanently die all spells learned automatically monsters do three quarters damage novice far left same as normal mode and the monsters only do half damage
+enable this option if a character should always appear dithered when it is obscured by an object if this setting is disabled the character is only dithered when the mouse cursor is over it or its portrait otherwise the character is not displayed at all
+enable this option to hear environmental audio effects such as echoes in caves this option requires a sound card compatible with the standard
+enable this option for gory combat animations
+this slider controls when the ellipsoid markers are rendered under creatures minimum picked creature low picked creature or selected character medium picked creature or selectable character high picked creature or selectable character or targeted creature higher picked creature or selectable character or hostile creature or targeted creature maximum all creatures and characters
+this slider controls when the locator arrows appear that indicate the direction of a character off screen minimum never low character takes damage medium character is picked high always higher always maximum always
+enable this option to see a character s attacking to hit rolls in the dialogue window
+enable this option to see combat information messages in the dialogue window
+enable this option to see a character s action messages in the dialogue window

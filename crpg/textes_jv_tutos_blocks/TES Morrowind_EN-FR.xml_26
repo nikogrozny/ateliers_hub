@@ -1,0 +1,20 @@
+this effect temporarily increases the value of a subject s fatigue any derived attributes are recalculated fatigue returns to its original values when the spell ends the magnitude is the value of the increase in fatigue
+this effect temporarily increases the value of one of a subject s skills the skill returns to its original value when the spell ends the magnitude is the value of the increase in the skill
+this effect temporarily modifies the multiplier used to derive the amount of a character has the magnitude is multiplied by a character s intelligence to derive the standard multiplier is intelligence a magnitude of produces equal to the character s intelligence
+this effect temporarily transfers a portion of the victim s attribute to the caster only strength intelligence willpower agility speed endurance personality and luck are affected the caster may exceed the attribute s maximum for the duration when the effect ends both caster and victim attributes return to original values
+this effect transfers health from the victim to the caster injuring the victim and vitalizing the caster the caster may exceed his maximum health for the duration when the effect ends the caster loses the borrowed health and the victim regains lost health
+this effect transfers from the victim to the caster reducing the victim s spellcasting reservoirs and filling the caster s the caster may exceed his maximum for the duration when the effect ends the caster loses the borrowed and the victim regains lost
+this effect transfers fatigue from the victim to the caster wearying the victim and invigorating the caster the caster may exceed his maximum fatigue for the duration when the effect ends the caster loses the borrowed fatigue and the victim regains drained fatigue
+this effect temporarily reduces the victim s skill and increases the caster s when the effect ends the caster loses the borrowed skill and the victim regains lost skill
+this effect increases the target s resistance to damage from elemental fire the magnitude is percentage reduction in damage caused by elemental fire damage effects
+this effect increases the target s resistance to damage from elemental frost the magnitude is percentage reduction in damage caused by elemental frost damage effects
+this effect increases the target s resistance to damage from elemental shock the magnitude is percentage reduction in damage caused by elemental shock damage effects
+this effect increases the target s resistance to damage from based attacks i e magical attacks not based on elemental forces the magnitude is percentage reduction in damage caused by non elemental magical damage effects
+this effect increases the subject s resistance to common disease the magnitude is percentage reduction in damage caused by common disease effects
+this effect increases the subject s resistance to blight disease the magnitude is percentage reduction in damage caused by blight disease effects
+this effect increases the subject s resistance to disease the magnitude is percentage reduction in damage caused by disease effects
+this effect increases the target s resistance to damage from poison the magnitude is percentage reduction in damage caused by poison damage effects
+this effect increases the target s resistance to damage caused by normal i e not enchanted or silvered weapons the magnitude is percentage reduction in damage caused by normal weapons
+this effect increases the target s resistance to paralysis the magnitude is the percentage added to the subject s standard resistance
+this effect will remove the effects of a curse from the target
+this effect temporarily increases an undead creature s flee rating i e its inclination to flee from an attacker the effect s magnitude is the value of the increase of the flee rating

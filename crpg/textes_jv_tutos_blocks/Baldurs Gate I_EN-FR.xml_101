@@ -1,0 +1,20 @@
+paused for rest screen
+kick player
+the party has gained gold
+the party has lost gold
+the party has gained experience
+the party has lost experience
+the party has gained an item
+the party has lost an item
+fighter aggressive ranger paladin
+the fighter will attack any enemy when he sees them if he kills the enemy then he will move on to the next enemy this script can be dangerous as the fighter will pursue enemies until they are dead often leaving his party behind lt script gt
+fighter defensive ranger paladin
+fighter passive ranger paladin
+the fighter will not move to engage enemies if he is attacked from a distance he will reciprocate with missile weapons if an enemy engages him in melee combat then he will draw his melee weapon and attack lt script gt
+fighter ranged attack ranger paladin
+the thief will attempt to hide in shadows when an enemy is not in sight as soon as the thief is hidden he will attempt to backstab the closest enemy lt script gt
+the thief will attack any enemies he notices who are attacking party members including himself he will not move far away from the party leader so if he s pursuing an enemy he will turn back and return to the party if he has gone too far if the thief is reduced to or lower hit points then he will run away and then attempt to hide in shadows and avoid combat lt script gt
+the thief will not move to engage enemies if he is attacked from a distance he will reciprocate with missile weapons if an enemy engages him in melee combat then he will draw his melee weapon and attack lt script gt
+thief ranged attack
+wizard aggressive bard
+the mage will begin casting offensive spells against any enemy as soon as he sees them the mage must have an offensive spell memorized for him to cast a spell if he does not have an offensive spell memorized then he will remain where he is standing and use any missile weapon that he possesses if an enemy engages him in melee combat then he will attack them with his melee weapon lt script gt

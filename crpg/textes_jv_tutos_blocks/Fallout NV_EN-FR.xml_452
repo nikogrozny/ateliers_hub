@@ -1,0 +1,20 @@
+ghost sight vision
+heated knife crit effect
+this is to make holograms stop move in the direction of the player and then resume a travel on spot package on the effect s end block
+this is to make appear with hologram effect shaders in this case we handle the regular base effect neutral
+short bonce bonce if set bonce to activate end
+backup trigger in case player grabs the dog command tape before god has a chance to point it out a player disable end
+causes christine to wait if the player jumps the gap into this trigger begin player if set waiting to else disable end
+updates to make player search for backstage key begin player disable end
+prevents god from resuming his basement barks if the player leaves the basement begin player if a set to disable end
+this script runs the shotgun trap if activated by a remote source it fire indefinitely the player can loot some shotgun shells if able to deactivate it commented out combat shotgun reward short armed short button init short init set armed to set init to end armed is the trap already activated disarmed if player can the player disarm the trap if player repair set to else message your repair skill is not high enough to disarm this trap else if set to end init set armed to set init to else if don t run stuff in game mode unless recently activated set button to grab the button state you don t know when this will be set if button if a valid response is received start doing stuff if button set armed to disarm the trap set to set to set to set to set to else set to set to player player ammo ga disable set to stop running stuff end
+to do use to cause damage when picked up and dropped bear trap returns to open state decrease trigger radius or set up to check distance when player is close enough short disarmed ref button short init on enter cell init get the name of this trap init trap skill requirements set to set disarmed to start trap out as closed set disarmed to forward set init to end on activate player check to see if the trap has been triggered if disarmed set to else check the player s science skill to see if they can disarm the trap if player repair set to disarmed else set to end init added calls from the block here to prevent reloading from messing with the block s processing jorge init trap skill requirements set disarmed to forward set init to else if don t run anything in unless the player just activated it set button to if button set to stop running stuff if disarmed button was pressed trap was disarmed if button if they choose to rearm if player repair check the player s repair skill message you have rearmed the trap set disarmed to reset the bear trap backward set to make sure we dont give twice else set to button do nothing else disarmed check to see if the player wants to disarm it if button set disarmed to forward set to set to set to set to set to else set to set to end when hit disarmed set disarmed to open up the trap forward set to end on actor enter begin find out who triggered the trap set to if added check for god s companion perk if disarmed set disarmed to set to forward trap close animation drop the target s health by and display it health do or damage object if not an actor random for which leg to disable short set to if say hit light step perk end
+ say set to end say set to end
+tracks whether the player has slept while his bomb collar is beeping if he did boom short float c set to set to end sleep menu c if set to set to end
+short bonce ref begin set to if player bonce say set to set bonce to end
+short bonce bonce say set bonce to end bonce say set bonce to end
+begin player if a say set to end
+returns the player s equipment automatically if the is completed begin player if player disable end
+quest script for christine begin safety in case block doesn t fire for whatever reason c end
+updates if dean is dead and the player is escaping the theater begin player if b disable end
+float short bonce bonce enable set bonce to set to if bonce set bonce to tune end

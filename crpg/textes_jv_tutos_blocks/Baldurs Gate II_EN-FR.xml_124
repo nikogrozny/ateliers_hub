@@ -1,0 +1,20 @@
+the arrow of dispelling will remove the magical enchantments that its victim is surrounded by statistics special dispel magic affecting target damage d damage type missile piercing weight launcher bow not usable by cleric druid mage
+the arrow of fire is a magical arrow that will burst into flames as it is fired at an enemy the effect is similar to an arrow doused in oil and set aflame statistics damage d damage type missile piercing special d fire damage save vs spell for none weight launcher bow not usable by cleric druid mage
+the arrow of piercing is long and thin imbued with magical properties that allow it to push itself through armor striking out towards the heart of the victim statistics damage d damage type missile piercing special physical piercing damage save vs death for none weight launcher bow not usable by cleric druid mage
+the arrow of ice is magically enhanced so as to burst into a rolling ball of ice and cold when fired when the arrow strikes its victim a shock of cold will travel through its body both burning and numbing to the very core statistics damage d damage type missile piercing special d cold damage no save weight launcher bow not usable by cleric druid mage
+paused for chapter text
+paused for rest screen
+kick player
+the party has gained gold
+the party has lost gold
+the party has gained experience
+the party has lost experience
+the party has gained an item
+the party has lost an item
+the paladin will attack enemies following them if necessary if companions are injured the paladin will attempt to heal them with spells or lay on hands lt script gt
+attack fighter ranger paladin
+the fighter will attempt to slay any mages or clerics this fighter will use missile weapons first if possible using melee only if surrounded by enemies lt script gt
+defend fighter ranger paladin
+the fighter will act like a normal fighter attacking enemies with whatever weapon is equipped if a mage or cleric in the party is injured to of its hit points the fighter will defend them attacking their attackers lt script gt
+the thief will attempt to hide in shadows when an enemy is not in sight as soon as the thief is hidden he will attempt to backstab the closest enemy lt script gt
+the thief will attack any enemies he notices who are attacking party members including himself if the thief is reduced to or lower hit points then he will run away and then attempt to hide in shadows and avoid combat lt script gt

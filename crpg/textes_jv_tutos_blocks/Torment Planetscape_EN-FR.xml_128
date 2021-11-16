@@ -1,0 +1,20 @@
+this screen contains options to control the amount of feedback in the game move your mouse over a control to see a description of what it does
+this screen contains options to specify when the game will automatically pause itself move your mouse over a control to see a description of what it does
+when this option is activated the game will run full screen when deactivated the game will run in a window on the desktop
+when this option is activated the game will do all sprite mirroring in software rather than through hardware acceleration only activate this option if your graphics card drivers do not properly mirror sprites
+lt gt
+when this option is activated the game will do all transparent of sprites in software rather than with hardware acceleration only use this option if your video card drivers do not properly render transparent sprites
+when this option is activated the game will perform all non transparent in software rather than with hardware acceleration only activate this option if your video card drivers do not properly do normal
+when activated this option will cause sprites that are covered by clipping to appear in a checkered or dithered pattern this improves visibility of characters
+when this option is activated the game will allow all violent content to be viewed when violent content will not be displayed
+when this option is activated the game will take advantage of creative labs environmental audio extensions this control is inactive if your system does not have a sound card with support
+this controls the volume of the music in the game
+this controls the volume of any spoken voice effects in the game
+this controls the volume of environmental sound effects in the game
+this controls the volume of action sound effects in the game
+this controls the volume of movies in the game
+this controls the speed at which the main game viewport will scroll when using the mouse
+this controls the speed at which the main game viewport will scroll when using the keyboard arrow keys
+this control determines the difficulty of moving the slider to the left will cause damage during combat to be lessened moving the slider right will increase damage
+he simply turns and begins to walk away
+are you by chance lady

@@ -1,0 +1,20 @@
+ref self begin set self to make actor power armor helm and not show a message if self self end begin set self to make actor equip power armor helm and not show a message if self self make actor equip power armor if they re attacked while sleeping if self self d d end begin set self to make actor power armor helm and not show a message if self self end begin player end begin set to end
+script ref used to hold reference to the actor that just entered or left the trigger ref used to hold reference to the actor that s currently firing in this lane int begin set to if set to set to new user in lane end begin set to if set to lane user is leaving end
+script ref used to hold reference to the actor that just entered or left the trigger ref used to hold reference to the actor that s currently firing in this lane int begin set to if set to set to new user in lane kicking someone out of lane end begin set to if set to lane user is leaving end
+script ref used to hold reference to the actor that just entered or left the trigger ref used to hold reference to the actor that s currently firing in this lane int begin set to if set to set to new user in range end begin set to if set to current user is leaving range end
+script ref used to hold reference to the actor that just entered or left the trigger ref used to hold reference to the actor that s currently firing in this lane int begin set to if set to set to lane has a new user end begin set to if set to lane user leaving end
+begin dispel dispel dispel dispel dispel poison dispel dispel poison dispel poison end
+begin smoke end begin smoke end
+ref short float we re active but havent hit a yet wait a few seconds then disable set to set to the cleanup timer if we re around for x seconds without being triggered disable if set to else disable end begin store who triggered us set to if its in the list blow it up if set to do end
+begin apply the electric damage end begin end
+ init float for ref init set to set to set to set to set to set to z forward set init to end means we have a horizontal location means we have a target vector to fire begin set to set to if do set to disabled set to end begin delete me if i am ever disabled set to we know what of the four directions time to aim more carefully twice set to if set to set to if set to if set to set to if set to if set to set to if set to if set to set to we have no target we search the four main directions we do this search times then we delete ourselves forward left set to left backward set to backward right set to right forward set to set to if forward left set to left backward set to backward right set to right forward set to set to set to if disable set to if set to end explosion stuff begin store who triggered us set to if its in the list blow it up if do end
+begin end begin start the secondary explosion if end
+begin at self small shock explosion end
+ smoke health health end begin smoke end
+begin end
+begin end begin end
+float float timer health health timer set to player set to set to set to set timer to health if timer set timer to timer end
+float begin set to end
+float begin set to end
+ begin set to someone should be power armor if d end begin set to if d end
+begin ref if fixed if set to this activate else end

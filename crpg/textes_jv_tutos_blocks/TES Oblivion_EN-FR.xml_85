@@ -1,0 +1,20 @@
+ms begin player journal when acquiring draconian madstone if ms gt ms ms unlock end
+ms begin player journal when picking up the orders if ms gt ms end
+begin if ms gt amp amp ms lt ms end
+begin if ms gt amp amp ms lt ms end
+begin if ms gt amp amp ms lt ms end
+begin if ms gt amp amp ms lt ms end
+begin if ms gt amp amp ms lt ms end
+ms short stage begin player set the right stage if ms gt amp amp ms lt set ms to ms if ms gt set stage to else set stage to ms ms stage end
+ms short begin player if ms gt amp amp ms set to end begin player if ms gt amp amp ms lt activate ms ms enable end
+ms begin player sets stage when refined frost salts acquired if ms gt ms end
+short begin if if default if default default if if if if if if if if kidnap if kidnap kidnap end
+float timer float short dialogue begin start conversation between the boys when the player gets close enough so they re not just standing there looking stupid if ms gt if ms conv if player lt ms set timer to build in pauses so it s not one continuous conversation ms conv if timer gt set ms conv to ms set timer to else set timer to timer ms conv if timer gt set ms conv to ms else set timer to timer have rallus evaluate ai package when he reaches each travel marker along the way first marker in cell if ms amp amp ms lt amp amp ms set ms to second marker on road south of priory ms amp amp ms lt amp amp ms set ms to update rallus while he waits at the marker for if ms amp amp ms lt if ms set ms to update quest stage when both are at the final marker if ms amp amp ms lt amp amp ms lt amp amp player ms lt ms dialogue between rallus and before starting combat if dialogue if ms amp amp lt if player lt set dialogue to set to ms dialogue if gt set to else set dialogue to set to ms set ms to dialogue if gt set to else set to ms set dialogue to dialogue if gt set to else ms ms goblin enable ms goblin enable ms goblin enable set dialogue to end
+begin if ms gt amp amp ms lt ms if ms gt amp amp ms lt ms end
+short begin if ms gt amp amp ms lt ms if ms gt amp amp ms lt ms end begin if if ms health cast ms ms rat ref enable ms rat ref enable ms rat ref ms rat ref set to end
+ms begin if player amp amp ms gt activate ms end
+begin player if amp amp amp amp amp amp gt end begin if amp amp amp amp amp amp end
+begin player if amp amp amp amp amp amp gt end begin if amp amp amp amp amp amp end
+publican publican willet room downstairs straight across from entrance door ref short rent short cleanup short setup short short float float begin if rent if setup set to set to set setup to set to set to unlock else if lt if gt if lt set cleanup to else if lt set cleanup to if player if cleanup set cleanup to if cleanup set rent to set to set to set setup to set cleanup to set to lock willet end begin if rent if setup if lt if gt if lt set cleanup to else if lt set cleanup to end
+publican publican room top floor either bed script handles both global var door ref short rent short short short cleanup short setup begin if rent if setup set to set to set setup to unlock else if set cleanup to set cleanup to if player if cleanup set cleanup to if cleanup set rent to set setup to set to set to set cleanup to lock end
+publican publican room first room upstairs on the right door ref short rent short short short cleanup short setup begin if rent if setup set to set to set setup to unlock else if set cleanup to set cleanup to if player if cleanup set cleanup to if cleanup set rent to set setup to set to set to set cleanup to lock end

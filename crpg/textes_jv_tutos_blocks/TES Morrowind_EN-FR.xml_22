@@ -1,0 +1,20 @@
+this effect permits the subject to walk on the surface of water for the duration
+this effect creates a magical shield around the subject s entire body the spell adds its magnitude to the subject s armor rating
+this effect creates a shield of elemental fire around the subject s entire body the spell adds its magnitude to the subject s armor rating and also greatly reduces damage from fire attacks
+this effect creates a shield of elemental shock around the subject s entire body the spell adds its magnitude to the subject s armor rating and also greatly reduces damage from shock attacks
+this effect creates a shield of elemental frost around the subject s entire body the spell adds its magnitude to the subject s armor rating and also greatly reduces damage from frost attacks
+this effect temporarily increases the weight carried by the victim causing faster fatigue loss the magnitude of the effect is the weight added when the effect ends the added weight disappears
+this effect temporarily reduces the target s encumbrance resulting in a slower loss of fatigue the magnitude is the units of weight removed from encumbrance
+this effect increases the height and distance of the target s jumps the magnitude is proportional to the increase in a jump s height and distance
+this effect temporarily enables the target to levitate into the air the magnitude is the speed at which the subject can move through the air
+the effects slow the rate of descent of the target reducing damage received upon landing
+this effect locks a container or door the magnitude of the effect is the lock level placed on the container or door the effect has no duration the container or door remains locked until unlocked by key pick or spell
+this effect opens a locked container or door the effect s magnitude is the highest lock level that can be opened
+this spell effect produces a manifestation of elemental fire upon contact with an object this manifestation explodes causing damage
+this spell effect produces bolts of elemental lightning the magnitude is the damage received by the first victim along a bolt s path
+this spell effect produces a manifestation of elemental frost upon contact with an object this manifestation causes frost damage over the area of the spell
+this effect temporarily lowers the value of one of a victim s attributes only strength intelligence willpower agility speed endurance personality and luck are affected any derived attributes are recalculated attributes return to their original values when the spell ends the magnitude is the units of attribute reduced each second of duration
+this effect temporarily lowers the value of a victim s health any derived attributes are recalculated health returns to its original value when the spell ends the magnitude is the units of health reduced each second of duration
+this effect temporarily lowers the value of a victim s any derived attributes are recalculated returns to its original value when the spell ends the magnitude is the units of reduced each second of duration
+this effect temporarily lowers the value of a victim s fatigue any derived attributes are recalculated fatigue returns to its original value when the spell ends the magnitude is the units of fatigue reduced each second of duration
+this effect temporarily lowers the value of a victim s skill the skill returns to its original value when the spell ends the magnitude is the units of skill reduced each second of duration

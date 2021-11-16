@@ -1,0 +1,20 @@
+a generic that legendary weapon mods apply that can be used in the entry point calculations this works because an actor can only have one weapon equipped at a time this would not work for armor or if we add dual wielding to the game
+set by robotics expert perk robot being jacked is unconscious conscious
+used by legendary item scripting to make sure we only spawn an item once per actor container
+power armor damage mult
+damage mult
+normal subway police fire medic construction
+how close you are to being set on fire
+how close to frozen you are from weapons
+used to record sae xxx faction value for attacks on workshop
+armor penetration
+for weapons with armor penetration treat as armor ignored
+power armor vent
+track if the player has paid for surgery from this surgeon
+track if the player has paid for a haircut from this barber
+set to when player loses control of a friendly workshop settlement
+armor quiet mod
+armor mod hide in shadows
+armor block percent
+used by companions who give player items from time to time
+power armor battery damage rate

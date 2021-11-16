@@ -1,0 +1,20 @@
+do you want to add rage to your spell list
+apprentice short button short used begin player if used do you want to add rage to your spell list yes no end begin activate if player amp amp used do you want to add rage to your spell list yes no end begin set button to if button gt if button add the spell to the player s player apprentice set used to end
+do you want to add touch of frenzy to your spell list
+do you want to add touch of frenzy to your spell list
+novice short button short used begin player if used do you want to add touch of frenzy to your spell list yes no end begin activate if player amp amp used do you want to add touch of frenzy to your spell list yes no end begin set button to if button gt if button add the spell to the player s player novice set used to end
+do you want to add touch of rage to your spell list
+do you want to add touch of rage to your spell list
+apprentice short button short used begin player if used do you want to add touch of rage to your spell list yes no end begin activate if player amp amp used do you want to add touch of rage to your spell list yes no end begin set button to if button gt if button add the spell to the player s player apprentice set used to end
+journeyman short button short used begin player if used do you want to add hail storm to your spell list yes no end begin activate if player amp amp used do you want to add hail storm to your spell list yes no end begin set button to if button gt if button add the spell to the player s player journeyman set used to end
+expert short button short used begin player if used do you want to add ice storm to your spell list yes no end begin activate if player amp amp used do you want to add ice storm to your spell list yes no end begin set button to if button gt if button add the spell to the player s player expert set used to end
+do you want to add blizzard to your spell list
+do you want to add blizzard to your spell list
+master short button short used begin player if used do you want to add blizzard to your spell list yes no end begin activate if player amp amp used do you want to add blizzard to your spell list yes no end begin set button to if button gt if button add the spell to the player s player master set used to end
+do you want to add snowball to your spell list
+do you want to add snowball to your spell list
+novice short button short used begin player if used do you want to add snowball to your spell list yes no end begin activate if player amp amp used do you want to add snowball to your spell list yes no end begin set button to if button gt if button add the spell to the player s player novice set used to end
+do you want to add hailstone to your spell list
+do you want to add hailstone to your spell list
+apprentice short button short used begin player if used do you want to add hailstone to your spell list yes no end begin activate if player amp amp used do you want to add hailstone to your spell list yes no end begin set button to if button gt if button add the spell to the player s player apprentice set used to end
+journeyman short button short used begin player if used do you want to add frost bolt to your spell list yes no end begin activate if player amp amp used do you want to add frost bolt to your spell list yes no end begin set button to if button gt if button add the spell to the player s player journeyman set used to end

@@ -1,0 +1,20 @@
+decimal d chance string s
+start time cost d
+party will not be surprised if ambushed
+start buff d
+improve start ranged attacks acc d
+improve start ranged attacks crit d
+d vs large monsters
+improve start ranged attacks d
+improve start stress resist by d
+start heal d hp
+chance to produce s
+produces a random supply item
+produces a random trinket
+reduce torchlight by d
+remove start bleeding
+remove start mortality
+remove start disease
+remove start blight
+improve scouting chance by d until next camp
+d start stress

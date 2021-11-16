@@ -1,0 +1,20 @@
+give player fast travel help message note all subsequent tutorials turned off set timer to set stage to tutorial all done
+quest log and world map tutorial set to set to
+to view your quest log amp to bring up your journal
+trigger quest log tutorial note took this out for now set to set to
+select the compass at the bottom of the journal to bring up the quest and map tab
+click on the compass at the bottom of the journal to bring up the quest and map tab
+this page displays all your active quests select an active quest and press x to display the world map showing your current quest target if any you can select any icon on the map to travel directly to that location
+this page displays all your active quests click on an active quest and hit the map button to display the world map showing your current quest target if any you can click on any icon on the map to travel directly to that location
+as you highlight each possible action the s face shows his reaction to it he will love like dislike or hate each action his disposition goes up if you select a loved or liked action and goes down if you select a disliked or hated action
+the potential gain or loss for each action is based on your speechcraft and how full the wedge is try to select fuller wedges when they are aligned with actions the likes try to select less full wedges when they are aligned with actions he doesn t like
+combine ingredients with like effects to create potions and poisons your alchemy skill will make your creations more powerful the more potions you create the higher your alchemy skill will go use additional apparatuses to improve the strength of the potions you create
+main quest general
+arena combatants control script
+arena aggression control script
+ms enable ms unlock set ms to
+enable
+greets player
+ms enable set ms to
+ms enable
+clean up the house mess when player leaves after some time ms disable ms disable disable

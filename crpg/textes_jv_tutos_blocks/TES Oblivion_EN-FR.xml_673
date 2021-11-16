@@ -1,0 +1,20 @@
+short prep our dice roll float high luck pc s do better begin if don t waste time on essential characters or the pc if protects dagon and other such enemies set to set to player luck luck chance set to if lt in case the pc is really un lucky set to if gt set to never greater than chance allowed debug messages message rolled f against f percent chance if lt check against dice roll kill player make em deader set dl dl to dl dl kills if dl dl lt message through the razor dagon claims this soul unique message for kill else message dagon claims this soul f souls claimed dl dl ominous text of doom commented w daily check lines end
+dl script short begin if if player dl bezoar gt message you place the bezoar on the pedestal player dl bezoar dl bezoar ref enable dl enable d set to set dl bezoar placed to else message nothing happens end
+you transmute a gold nugget into coins
+you transmute a silver nugget into gold
+with nothing to transmute the scroll is wasted
+dl begin if player gem gt player gold add gold to player inventory message you transmute a gold nugget into coins player gem else if player gem gt player gem add gold nugget to inventory message you transmute a silver nugget into gold player gem else if player dl gem gt player gem add silver nugget to inventory message you transmute iron ore into silver player dl gem else message with nothing to transmute the scroll is wasted end
+dl begin message dark energy courses through you dl champion ref use emil s apple poison to slowly kill champion dl disable disable his cage so he can chase pc set dl to flag brings champion statue to life everyone gets infamy hit player dl and prion disease if player non vamps contract player end
+dl activated by player short button short init begin if player if dl will you defy dagon s task and try to force the gate open no yes dl dl forward dl end begin set button to if button gt if button set dl to flag brings champion statue to life dl disable disable collision cage around statue if player strength lt message you strain but fail in opening the gate else message your terrible strength forces the gate open set dl to prevents champion from re playing door anim dl forward dl end
+dl champion script short short short function for death fade short float fader begin dl move me to marker to be sure of placement heading dl try equipping all axes in my weapon list dl dl dl dl dl dl dl copied by rote from tg dl dl throw a shader effect on my coffin for visual blend set fader to end begin dl disable so you can t activate loot corpse if dl dl forward dl set to flag for death fadeout dl turn off shader dl turn on death shader d end begin player will only pass when alive because of dl activate player end begin if if player lt amp amp dl set to dl champion ref dl champion ref dl champion ref set to set to if saa if fader gt set fader to fader decrement fade amount we re also using this value as our counter saa fader fade by decremented value fader lt disable and stop processing when we re faded out set to disable if fader lt amp amp dl set to end
+you should not be here
+dl ref target begin set target to if target player target message you should not be here else target disable end
+chance is f and disease is f
+disease enemy
+dl short short begin set to set to message chance is f and disease is f if gt if gt amp amp lt message disease enemy else if gt amp amp lt message disease e else if gt amp amp lt message disease else if gt amp amp lt message disease e else if gt amp amp lt message disease else if gt amp amp lt message disease else if gt message disease end
+dl short short button begin if activate else if player if dl gt a voice beyond the door calls out who gathers over lt say nothing gt chimer else a voice beyond the door calls out who gathers over lt say nothing gt end begin if set button to if button unlock activate set to end
+cast
+script effect
+cannibal s prion disease
+scroll of transmutation
+small diary

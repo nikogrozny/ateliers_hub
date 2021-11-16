@@ -1,0 +1,20 @@
+this trigger script makes certain that the proper quest stage is set for the hoover dam ending in which the legate yields without violence jorge short begin player if return else if set to set to set to end
+ref begin player if set to trooper set to set to end
+short button end player end begin set button to if button player end
+jorge short begin end begin player set to set to if if if unlock end begin set to end
+int sneaking child not sneaking child sneaking float number of seconds child s been running player player player return else if sneaking if running if the kid gets close enough to a rat he ll start sneaking set sneaking to running if the rat runs far enough away make it stop running set running to kid gets tired after seconds of running and rests for seconds if set sneaking to set to end
+int ref if player player set to end begin player if player player set to if player say end
+ref int begin player if set to trooper update number spawned set to each trigger only spawns a guy once since there s only one linked set to end
+ref int begin player if set to enable update number spawned set to each trigger only spawns a guy once since there s only one linked set to end
+int chance begin set to if legionary disable marker legionary legionary disable the next location set chance to if chance set to marker chance chance set to marker chance set to marker spawn a new legionary at the current point set to legionary legionary disable the next location set chance to if chance set to marker chance chance set to marker chance set to marker spawn a new legionary at the current point set to legionary legionary disable the next location set chance to if chance set to marker chance chance set to marker chance set to marker spawn a new legionary at the current point set to legionary end
+ ref int chance another trooper is processing its garbage collection just get rid of this one now otherwise set him as one of the five most recent corpses and get rid of the one of the five it replaced debug disable if locked disable else set locked to only display the five most recent legion corpses if set to set to set to set to set to set to set to set to set to set to set to set to set to set to set to get rid of an old corpse if there is one if removing a corpse disable set locked to update current spawn counts based on player s current cell if player set to end
+ref int begin player if set to enable update number spawned set to each trigger only spawns a guy once since there s only one linked set to end
+ref begin set to if player if enable legionary ref enable legionary ref enable legionary ref enable legionary ref enable legionary ref enable trooper ref enable trooper ref enable trooper ref enable trooper ref enable trooper ref enable ref enable ref enable activate end
+begin player if end
+ you re on the legion side enable the troopers and legionaries in the next section if set to if player enable legionary ref enable legionary ref enable legionary ref enable legionary ref enable legionary ref enable trooper ref enable trooper ref enable trooper ref enable trooper ref enable trooper ref enable activate end
+begin set to ref end begin set to ref end
+ this variable keeps track of president s method of death none default bomb crash aa gun watson exploded assassin fallback
+begin player if player end
+ref int set to set to lock end
+this script updates a quest variable count of legate guards killed the showdown control script takes this variable into account so as to know when to conclude the showdown and kick start the new quest stage events jorge begin set to end begin player if player player player set to set to end begin end
+int ref player if return only do this if the player has sided with the legion set to if player if disable player s controls prior to legate conversation set to make legate and his guards neutral to you in case you re wearing armor or have been shooting up legion guys activate else activate end

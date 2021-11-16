@@ -1,0 +1,20 @@
+main menu
+dx mode
+this setting has no effect while in basic graphics mode
+ignore pc scroll limit
+path finding range
+normal
+enable fog of war
+press a key or esc to cancel
+hi res patch settings
+set up the screen resolution color mode and refresh rate for mode
+set up the color output here
+customize the width by clicking the number box
+customize the height by clicking the number box
+enable or disable window mode
+in window mode this is the key you will hold down when using the mouse to scroll the game and world maps
+press the red button to select a different key or click the number box to edit the windows virtual key code
+enable x scaling this will also up the min res to x with window mode requiring more space for its frame
+when enabled scrolling away from the player character is unlimited this works well if fog of war enabled
+increase the number of search nodes to extend the path finding distance levels in node increments
+path search nodes original value note each level requires an additional kb of memory

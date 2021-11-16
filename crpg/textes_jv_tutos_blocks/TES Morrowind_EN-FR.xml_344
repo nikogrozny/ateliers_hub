@@ -1,0 +1,20 @@
+boots of blinding speed
+spear of bitter mercy
+ring of
+spell breaker
+staff of
+staff of magnus
+vampiric ring
+warlock s ring
+robe of the lich
+begin if lt disable if enable if set to activate player gt crusher unique x player gt crusher unique end
+begin short short short short short short short short short short short short short short short short short short short short short short short short short short short short short short short short short short short short short set to if if player gt unique s ward set to set to if if player gt lords cuirass unique lord s mail set to set to if if player gt cuirass savior unique cuirass of the savior s hide set to set to if if player gt ten pace boots set to set to if if player gt ebon plate cuirass unique ebony mail set to set to if if player gt boots apostle unique boots of the apostle set to set to if if player gt bloodworm helm unique bloodworm helm set to set to if if player gt ebony shield s shield set to set to if if player gt boots of blinding speed unique boots of blinding speed set to set to if if player gt spear mercy unique spear of bitter mercy set to set to if if player gt umbra unique umbra sword set to set to if if player gt dagger fang unique fang of set to set to if if player gt ebony bow s bow set to set to if if player gt s judgement set to set to if if player gt mace of bal unique mace of bal set to set to if if player gt longbow shadows unique bow of shadows set to set to if if player gt cuirass unique cuirass set to set to if if player gt katana unique set to set to if if player gt helm unique helm of set to set to if if player gt claymore unique ice blade of the monarch set to set to if if player gt claymore unique set to set to if if player gt ring unique ring of set to set to if if player gt crusher unique skull crusher set to set to if if player gt spell breaker unique spell breaker set to set to if if player gt staff unique staff of set to set to if if player gt staff magnus unique staff of magnus set to set to if if player gt ring vampiric unique vampiric ring set to set to if if player gt ring warlock unique warlock s ring set to set to if if player gt mace of slurring mace of slurring set to set to if if player gt bipolar blade bipolar blade set to set to s hammer if if player gt robe lich unique robe of the lich set to set to if if player gt glass dagger unique dagger of set to set to end
+begin if lt disable if enable if set to activate player gt spell breaker unique x player gt spell breaker unique end
+begin if lt disable if enable if set to activate player gt staff unique x player gt staff unique end
+begin if lt disable if enable if set to activate player gt staff magnus unique x player gt staff magnus unique end
+begin if lt disable if enable if set to activate player gt hammer unique x player gt hammer unique end
+begin if lt disable if enable if set to activate player gt umbra unique x player gt umbra unique end
+begin if lt disable if enable if set to activate player gt x player gt end
+begin place on short short short if day set to day set to end
+begin float timer short lockout short enabled short short short if return if ms summoner gt return if change if disable active chimney smoke ovis gt disable active chimney smoke ovis gt disable set to change if player lt if lockout set to set lockout to if if enabled enable active chimney smoke ovis gt enable active chimney smoke ovis gt enable steam set enabled to set to if enabled set timer to timer if timer gt active chimney smoke ovis gt disable active chimney smoke ovis gt disable if lockout player set lockout to set enabled to if journal ms summoner end
+begin packrat short companion if ms set companion to end packrat

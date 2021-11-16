@@ -1,0 +1,20 @@
+death of standard enemy
+start final wave
+player has entered the generator room should start following you again
+player has entered a bumper zone
+robot assembly scripting staging support quest
+turns on the quest part a assumed start
+trigger to start conversation is hit
+is at the and starts using the furniture marker
+part b starts technical non combat activity
+runs to second hide location
+part c starts second combat section
+this gets hit every time the player destroys an enemy in part c
+goes back to following the player regularly
+return to the capital wasteland
+optional set the alien ship to self destruct
+activate the engine core
+defeat the alien captain
+destroy the generator in the labs
+destroy the generator in the hangar
+destroy the generator in the robot assembly

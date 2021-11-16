@@ -1,0 +1,20 @@
+short
+short script blocker float timer timer used for animation control begin when set to plays medical animations for eight seconds then restarts conversation with the player if variable if set timer to set to set timer to timer if timer set to if timer variable set to when set to plays medical animations for eight seconds then restarts conversation with the player if variable if set timer to set to set timer to timer if timer set to if timer variable set to end
+script shelter door opens on activate stopping idle idle resumes when door is closed float timer short on begin set on to end on if backward forward set on to on if forward backward set on to end on set on to end
+short active set to to turn on and start moving short talk set to to start talking float timer used for custom dialogue short float short ready to ask for tickets player has ticket begin set to if active make me unconscious so i don t play sounds set talk to end begin set to else set to get him to move around set active to if talk if timer set timer to timer else if player set timer to else say set timer to periodically check if player is in combat with anything if so assume goes into hostile mode if aggression if player player set active to normal patrol aggression make aggressive end begin set talk to set timer to end
+script opened short opened set to end begin opened set opened to forward check if the gates are done opening play nd left idle state if opened left set opened to if left set to end
+this script is for a generic tripwire activator ref self ref short armed button short init init set armed to set to set init to end begin set self to if armed forward activate self set armed to end armed is the trap already activated disarmed if player can the player disarm the trap if player repair set to else message your repair skill is not high enough to disarm this trap else activate end begin set self to set to if armed forward activate self set armed to end don t run stuff in game mode unless recently activated set button to grab the button state you don t know when this will be set if button if a valid response is received start doing stuff if button set armed to disarm the trap forward set to set to set to set to set to else set to set to set to stop running stuff end
+script parking meter expired tab rolls down and needle pops up when activated float timer short on begin set on to end on forward set on to end
+ player disable end
+ variable for conversations for demo short variable used for behavior in metro short set to when player is carrying ticket
+salvaged power armor dummy
+boxing gloves dummy effect
+displacer glove weapon effect
+dummy knife effect
+abilene kid le bb gun dummy effect
+fire fist weapon effect
+evaluate package pulse object effect
+miss fortune s whim
+legate sword effect
+legate sword effect
+faction disguise explosion effect

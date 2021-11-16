@@ -1,0 +1,20 @@
+the barrel is empty
+barrel dispenses mead short bottles how many bottles does the barrel contain incremented by vintner decremented by player activating barrel short init begin if init set init to set bottles to end begin if player dispense wine to player if bottles gt set bottles to bottles player if bottles gt message the barrel still contains enough to fill f more bottles bottles bottles message the barrel contains enough to fill more bottle else message that was the last wine in the barrel it is now empty else message the barrel is empty end
+your armorer skill has temporarily increased by
+your armorer skill has returned to normal
+short begin if return if player lt amp amp set to player message your armorer skill has temporarily increased by if player gt amp amp set to player message your armorer skill has returned to normal end
+short open short busy begin if open ref else ref end begin if open amp amp if busy amp amp ref set busy to ref disable forward ref forward dust forward ref set open to else if busy amp amp ref backward ref backward dustfall forward ref set open to end begin if amp amp busy set busy to end
+script effect
+barrel of sparkling honeydew
+barrel of cheap wine
+library area
+dining area
+note from
+kitchen area
+decrepit note
+here take this list
+player
+player
+player
+what is it sera
+player

@@ -1,0 +1,20 @@
+please remove the current soul gem before placing a different soul gem
+you cannot buy a spell that has a zero point cost
+you cannot enchant more then one item of that type at a time
+the cast cost cannot exceed the charge amount put into the time
+you must add at least one effect to an enchantment
+you have successfully created an enchanted item
+slot for item to enchant only weapons armor scrolls and clothing that are not already enchanted can be enchanted
+slot for the soul gem used to enchant an item only soul gems filled with a soul can be used the soul amount is the total charge placed into the item
+the first number is the total amount the enchantment would cost to cast the second number is the total enchantment cost that can be placed on this type of item
+the amount of charge points needed each time this enchantment is cast this number is modified by your enchant skill
+the amount of soul in the soul gem in the soul gem slot
+amount of gold to buy this enchantment
+type of cast for the enchantment
+name you give the spell
+magic effects you know that you can add to an item
+current effects on the item
+you cannot equip items being bartered
+you have ascended to level
+level up
+range

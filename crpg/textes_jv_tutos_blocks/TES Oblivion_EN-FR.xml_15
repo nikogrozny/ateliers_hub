@@ -1,0 +1,20 @@
+water walking
+weakness to magic
+weakness to normal weapons
+weakness to poison
+return to the main menu unsaved data will be lost
+quick and cunning with the empty hand they are strong in spirit they prefer to solve conflict by arrow or by fist
+there is no soul gem in your inventory large enough to capture the soul
+you cannot fast travel with enemies nearby
+the roots will not budge
+se script activated by linked child activates optionally linked parent after sec delay short init short open short next short busy float timer ref myself ref begin set myself to set to if player if open message the roots will not budge myself amp amp busy if open forward set open to else backward set open to set next to set timer to set busy to end begin if init set up ref set myself to set to prepare linked points set init to daisy chain activation if next amp amp timer lt set next to activate myself if timer gt set timer to timer if amp amp busy set busy to end begin reset set open to set next to set busy to end
+this gate is opened elsewhere
+se uses purge cell buffer on load to free up more memory for this beast of a dungeon begin end
+activator my job is to turn on obelisk at the right time short done set to when ob turned on set to when finished float timer used to delay turn on slightly begin if done if set done to set timer to done if timer gt set timer to timer else activate set done to end
+ref begin if amp amp if gt set to cast end
+begin player set to end begin player set to end
+begin player set to end begin player set to end
+se script activates linked parent object once short triggered ref target ref myself this is for use when the adventurers enter and encounter the first room when breaks the trigger zone sets off a say begin if triggered set target to set myself to target activate myself say se set triggered to end begin set triggered to end
+se begin if se set se to end
+se begin if se set se to end
+se begin if se set se to end

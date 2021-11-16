@@ -1,0 +1,20 @@
+same as l transparent small but animated
+blocks physical object but not
+static object that is very thin only collides with larger projectiles
+special shell casing layer for casing sounds
+trigger type for stream lined actor only trigger boxes
+portal layer same setup as but used differently by game code
+terrain from the height field map
+object the is not with character
+terrain objects such as boulders and mountains
+a trigger
+a water area phantom
+spell
+pick for path smoothing and such
+line of sight pick
+pick clutter and other items of interest
+player camera
+used for cone projectiles which ignore hits with certain collision layers
+sphere around the camera collides only with phantom objects
+avoid box cast in front of the character
+we need this to allow collision with the actor s instead of its character controller

@@ -1,0 +1,20 @@
+script begin player update the number of scouts found set to send player back to if this is the last one if end
+float time begin set time to only do sandstorm stuff if bunker isn t destroyed if set the weather and storm effects based on the time if time time set to set flag so quest handles weather appropriately set to set to ref enable ref enable ref enable ref enable ref enable ref enable ref enable ref enable ref enable ref enable set timer to else set to set to disabling ref disable ref disable ref disable ref disable ref disable ref disable ref disable ref disable ref disable ref disable ref right ref right ref right ref right ref right ref right ref right ref right ref right ref right set timer to speed quest processing activate end
+failsafe script for triggering the independent if you kill caesar crocker house without starting the independent quest line short begin ref set to if if set to if removed the script from the platinum chip and added this if the player kills benny at the casino or benny flees the strip give them the failsafe quest for yes man to start the independent if set to if end
+trait doesn t allow conditionals adds death item to s inventory only if is active begin set to set to remove the fort version of vulpes disable remove version disable set to end player disable end
+short button player end
+int begin if end set to disable end
+ref begin set to if player set var so bodyguards won t leave set to enable near central intersection ref enable ref enable activate end
+ref begin set to if player set var so bodyguards leave when fast traveling away set to if the entering actor is any of the fleeing van graff customers disable them disable end
+begin player end
+begin player end
+begin player end
+begin player end
+begin player end
+begin player end
+begin player end
+begin player player end
+begin player if player player end
+begin player if player player end
+ref begin set to if player if activate player set to else activate player if set to the below code activates the door on a slight delay the delay addresses a bug where if weapons were returned to the companions during a transition the weapons would not load in properly after the transition and companions wouldn t be able to use them until they reloaded a save set to set to set to ref activate end
+ref companion companion ref player removes all player weapons if player sneak player else player checks for followers clears companion refs for safety set companion ref to set companion ref to if companion ref set companion ref to else set companion ref to companion ref set companion ref to else set companion ref to companion ref set companion ref to else set companion ref to companion ref set companion ref to else set companion ref to companion set companion ref to ref companion set companion ref to ref companion set companion ref to set companion ref to set companion ref to set companion ref to ref companion ref set companion ref to else set companion ref to companion ref set companion ref to else set companion ref to companion ref set companion ref to else set companion ref to if companion ref if player sneak companion else companion if companion ref if player sneak companion else companion else player is activator gives the player and his companions back their weapons after they leave player ref companion companion ref end

@@ -1,0 +1,20 @@
+reduced melee weapons touch
+reduced energy weapons touch
+critical hit weaken str dt
+critical hit frenzy
+reduced speed mult
+script effect
+critical acid damage
+critical strike paralysis s
+paralyze self
+increased attack speed
+critical heat damage
+raise energy permanent
+this is to make appear with hologram effect shaders in this case we handle the regular base effect neutral however this version is meant to be used with holograms tied to the type
+this is to make appear with hologram effect shaders in this case we handle the regular base effect neutral
+this is to make holograms stop move in the direction of the player and then resume a travel on spot package on the effect s end block
+sneak speed
+mine base effect
+giant death magic effect
+burst magic effect
+implant grx scripted effect

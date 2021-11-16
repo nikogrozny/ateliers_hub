@@ -1,0 +1,20 @@
+left gauntlet
+you re insane you must die as all evil should
+such power must never be wielded by one so feeble the mantle will be mine
+you re insane you must die as all evil should
+such power must never be wielded by one so feeble the mantle will be mine
+only one may survive the hunt me
+wait here
+wait here
+no wait
+no wait
+no i won t
+what about your wife
+how about a drink
+begin slave status each slave has a status as follows owned default state does not indicate who they are owned by for sale someone in the game can sell this slave via dialogue owned by the player the player has purchased this slave and the slave follows the player freed the player has freed this slave the slave eventually disables himself dead not in slave status but a state one should check for special conditions for slaves in see ht short short short if return if ht gt if slave bracer left gt drop slave bracer left if slave bracer right gt drop slave bracer right if ht gt disable end
+begin if journal b end
+begin short short short if return if romance disable return if day set to day set to end
+begin short if gt return if if mg gt set to enable return if set to disable end
+begin short short short if return if if mg flowers gt set to return if if mg gt set to end
+begin doors float timer short start if return don t run time in menu mode very bad if if start set start to return when activated we want to start movement on the next frame if start return if we have t started stop here for speed if timer lt rotate x above line rotates the crank itself door gt rotate z door gt rotate z above two lines open the doors you may need to adjust the times or the rotate value right now they open over seconds to about degrees if timer gt door gt rotate z door gt rotate z these lines close the doors seconds after you activate or seconds after the doors are fully open if timer gt set start to set timer to after more seconds the doors are back to their original position reset timer and start set timer to timer above line increments the timer should be last here outside if statements otherwise bad things can happen end doors
+begin float timer short start if return don t run time in menu mode very bad if if start door open set start to return when activated we want to start movement on the next frame if start return if we have t started stop here for speed if timer lt rotate x above line rotates the crank itself if timer gt if start door stone open set start to door gt rotate z door gt rotate z above two lines open the doors you may need to adjust the times or the rotate value right now they open over seconds to about degrees if timer gt if start door stone open set start to door gt rotate z door gt rotate z these lines close the doors seconds after you activate or seconds after the doors are fully open if timer gt set start to set timer to door gt z door gt z after more seconds the doors are back to their original position reset timer and start set timer to timer above line increments the timer should be last here outside if statements otherwise bad things can happen end

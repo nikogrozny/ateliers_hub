@@ -1,0 +1,20 @@
+short set to after joins order short set to after asking to join order short short pray float clear follower variables if i m the follower when i die begin if nd set nd to set nd following to set nd to if nd gt amp amp nd lt set nd to nd if nd nd lt set nd to end begin if set nd to nd sir no longer essential knight equipment ll ll arrow silver end begin if nd amp amp player a message the time stop effect prevents you from interacting with the knights else activate end begin player return end begin say end begin if x if lt if pray set pray to set to pray if lt look set pray to else set to pray set pray to end
+nd short short float timer float begin if nd gt amp amp nd lt if nd if if set timer to set to d set to set timer to timer set to if timer gt amp amp activate player set to if timer gt player if timer gt nd end
+nd short short float timer ref s script sets this when he s ready to die begin if nd if set timer to timer if set timer to kill disable set to if timer lt disable if timer lt player d if timer lt nd end
+nd ref begin if nd lt set to if activate player activate else activate end
+nd begin if nd end
+nd short short resurrect float timer begin if nd gt disable end begin if nd amp amp resurrect set resurrect to if nd amp amp set resurrect to disable set to if resurrect set timer to timer if timer lt nd resurrect set resurrect to set nd to end begin if nd amp amp nd lt set resurrect to set timer to end begin if nd message the time stop effect prevents you from interacting with the else activate end
+nd script short busy ref target ref myself begin if busy set target to set myself to target activate myself forward set busy to if nd if nd set nd to end begin if amp amp busy set busy to end
+nd short begin set to set nd to nd end
+nd enables linked parent object once for loading creatures amp when the player reaches a specific point short triggered ref target begin player if nd if triggered set triggered to set target to target enable if nd nd nd nd end
+nd script short busy ref target ref myself begin if nd gt if busy set target to set myself to target activate myself forward set busy to if nd if nd set nd to else something is preventing the switch from moving end begin if amp amp busy set busy to end
+nd short
+nd script short short short begin if nd lt if nd if nd gate ref activate nd gate ref activate nd gate ref activate set to end
+begin if player pick up mace nd end
+begin if player pick up sword nd end
+begin if player pick up shield nd end
+begin if player pick up boots nd end
+begin if player pick up gauntlets nd end
+begin if player pick up greaves nd end
+begin if player pick up cuirass nd end
+begin if player pick up helmet nd end

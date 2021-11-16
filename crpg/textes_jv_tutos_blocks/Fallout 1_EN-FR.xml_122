@@ -1,0 +1,20 @@
+damage res
+poison res
+healing rate
+critical chance
+carry weight
+eye damage
+you have been poisoned poison will do damage over a period of time until it is cured or passes from your system endurance increases your resistance to poison
+you are suffering from a significant amount of radiation poisoning the more rads you have received the more deadly the effect going over will usually mean certain death
+your right arm has been severely hurt and cannot function well if one arm has been crippled you cannot use two handed weapons if both arms have been crippled you cannot attack with weapons at all
+your left arm has been severely hurt and cannot function well if one arm has been crippled you cannot use two handed weapons if both arms have been crippled you cannot attack with weapons at all
+you have a crippled right leg this affects your movement speed in combat and means you cannot run
+you have a crippled left leg this affects your movement speed in combat and means you cannot run
+save
+load
+the current character
+error saving
+character file invalid
+character data invalid
+error reading file list
+statistics

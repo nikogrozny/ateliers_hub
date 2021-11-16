@@ -1,0 +1,20 @@
+note requires container to animate which is the sign that the player has the key to open it short ref myself ref float how much percent of ammo to remove when contents of chest to prevent player from getting super rich replaced with global short float how much percent of ammo to remove when contents of chest to prevent player from getting super rich replaced with global short add a pencil if there isn t one so it doesn t look empty if pencil pencil if set myself to set to remove some standard ammo from merchant container set to ammo mm ammo mm set to ammo mm ammo mm set to set to disabled set to disabled set to set to set to ammo magnum ammo magnum set to set to ammo ammo set to ammo mm ammo mm set to remove some from merchant container set to move items from merchant container to this one myself disable remove the pencil that was added to prevent the mouse over description pencil set to end
+float timer intermittently broadcasting radio beacon begin timer set timer to timer else beginning play set timer to end
+short begin player set to end begin player set to end
+cg don t allow activation of intercom until jonas is talking through it player if cg cg activate else else activate end
+short ten short twenty short thirty ten if player set ten to if twenty if player set twenty to if thirty if player set thirty to end
+ref begin is a form list that has every type of weapon fire and explosion that could potentially ignite a gas trap on contact do end begin set to do if do end
+this script runs the electrified toilet trap the player should get shocked a few seconds after activating this float timer short armed short triggered short set if the player passes skill check short button pressed button short init init set armed to set triggered to set timer to set init to end armed is the trap already activated disarmed if player set triggered to activate d else if player repair else set to set up to defuse end triggered shock the player after time has passed if timer set timer to timer else player health player say hit d player player set triggered to set timer to if don t run stuff in game mode unless recently activated set button to grab the button state you don t know when this will be set if button if a valid response is received start doing stuff if button set armed to disarm the trap player disable set to set to set to set to set to else set to set to set to stop running stuff end
+this script should cause the duct to make a noise when activated short player set to d end
+basic script that enables linked reference short ref set to enable set to end
+float begin if set to health end
+this script tells the door to only be activated by not the player ref set to if player activate end
+ player disable end
+short float player if set to set to set to set to set to set to if set to disable enable if set to end set to if player activate player set to set to disable set to if enable disable else if enable unlock ref enable ref disable ref player ref player ref player set to disable set to set to disable end
+ player else activate end
+ref begin set to if activate else return end
+short set to when player triggers begin player if the player hasnt done it before if set to turn on the enable enable end
+short set to when player triggers begin player if the player hasnt done it before if set to turn on the enable enable end
+effect s job is to simply give a message when the effect starts and ends begin player completely heal the player and limbs if give the player the perk if he doesn t already have it end begin end
+ waiting short end followers set followers to set followers to end
+effect s job is to cast the well rested spell on the player begin end

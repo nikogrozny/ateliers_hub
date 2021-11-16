@@ -1,0 +1,20 @@
+trigger talking
+finished speaking set talk to set speaker to put a delay on speaking so has time to finish talking set to
+temp done talking trigger start of emperor conversation
+start next conversation section set speaker to set target to set to make sure we re at right spot look player
+debug reaches marker a start conversation with
+finished conv between and about player in cell
+player stay put trigger to open cell door look player set to slight delay set speaker to set target to set to make sure on right stage
+cell door is open player
+emperor speaks to player set to player look player
+temp stage emperor notices player
+debug stage emperor approaches player
+secret wall is open set by timer set speaker to set target to set to make sure we re on the right spot
+start ambush make blades aggressive enough to respond aggression aggression aggression make sure they don t attack the player get moving close secret cell door backward ref ref ref ref
+debug stage trigger start of ambush
+attackers reach the marker on the floor set faction reactions so blades amp md will fight
+ambush a is over trigger to speak to emperor
+emperor conv done trigger emperor conv trigger conversation between and set speaker to set target to set to make sure we re at the right spot set to pause briefly before starting
+debug stage start conv
+arrives outside room b set speaker to set target to failsafe in case player waits too long away from
+player gets near room b triggers emperor et al to walk into room b set speaker to set target to set to make sure we re at the right spot ref

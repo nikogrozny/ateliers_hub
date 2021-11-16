@@ -1,0 +1,20 @@
+requires summoned creatures
+requires enemies in attack range
+requires allies in radius
+on main target only
+excluding main target
+requires no allies in radius
+nearby ally with same target
+must be chanting
+enemies only
+requires at least endurance
+a group of have emerged from od and will attack soon
+a band of vicious mercenaries is marching on our gates they will attack soon
+stealth allows characters of any class to attempt to avoid being seen or heard it is used automatically whenever the character is in scouting mode the higher the character s skill the closer they can get to enemies before being detected
+adventuring is tiring work in addition to the hazards of mortal combat adventurers have walls to climb rivers to cross and pits to leap over once per encounter characters with athletics can use the second wind ability to recover lost endurance a higher athletics score increases the effect of second wind in conversations and scripted interactions athletics is used for physical feats like climbing swimming and jumping
+lore represents a character s accumulated miscellaneous knowledge and trivia often of occult or esoteric topics outside of conversations and scripted interactions lore is used to activate scrolls higher lore values allow the character to use higher level scrolls
+traps and locks can be a problem for even the toughest adventurers draining their resources and maiming or killing those who are unfortunate enough to trigger an unseen floor plate the mechanics skill makes it easier to open locks and find and disable traps additionally any character can use the mechanics skill to place traps of their own the higher the mechanics skill the more accurate the trap in conversations and scripted interactions mechanics can be used to activate or disable a variety of machines
+survival allows characters to choose from a variety of long term bonuses each time they camp the first six ranks grant the following bonuses damage reduction received healing multiplier bonus movement accuracy bonus vs creature type increased consumable duration bonus damage vs flanked enemies after the sixth rank the previously earned bonuses become more powerful in the same order they were received survival can also be used in conversations and scripted interactions that involve wilderness challenges or specialized information about nature
+game paused
+accuracy
+primary color

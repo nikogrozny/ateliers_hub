@@ -1,0 +1,20 @@
+master short button short used begin player if used do you want to add aegis to your spell list yes no end begin activate if player amp amp used do you want to add aegis to your spell list yes no end begin set button to if button gt if button add the spell to the player s player master set used to end
+novice short button short used begin player if used do you want to add protect other to your spell list yes no end begin activate if player amp amp used do you want to add protect other to your spell list yes no end begin set button to if button gt if button add the spell to the player s player novice set used to end
+journeyman short button short used begin player if used do you want to add shocking burst to your spell list yes no end begin activate if player amp amp used do you want to add shocking burst to your spell list yes no end begin set button to if button gt if button add the spell to the player s player journeyman set used to end
+expert short button short used begin player if used do you want to add lightning ball to your spell list yes no end begin activate if player amp amp used do you want to add lightning ball to your spell list yes no end begin set button to if button gt if button add the spell to the player s player expert set used to end
+master short button short used begin player if used do you want to add lightning storm to your spell list yes no end begin activate if player amp amp used do you want to add lightning storm to your spell list yes no end begin set button to if button gt if button add the spell to the player s player master set used to end
+do you want to add spark to your spell list
+do you want to add spark to your spell list
+novice short button short used begin player if used do you want to add spark to your spell list yes no end begin activate if player amp amp used do you want to add spark to your spell list yes no end begin set button to if button gt if button add the spell to the player s player novice set used to end
+do you want to add shock to your spell list
+do you want to add shock to your spell list
+apprentice short button short used begin player if used do you want to add shock to your spell list yes no end begin activate if player amp amp used do you want to add shock to your spell list yes no end begin set button to if button gt if button add the spell to the player s player apprentice set used to end
+journeyman short button short used begin player if used do you want to add lightning bolt to your spell list yes no end begin activate if player amp amp used do you want to add lightning bolt to your spell list yes no end begin set button to if button gt if button add the spell to the player s player journeyman set used to end
+expert short button short used begin player if used do you want to add lightning blast to your spell list yes no end begin activate if player amp amp used do you want to add lightning blast to your spell list yes no end begin set button to if button gt if button add the spell to the player s player expert set used to end
+do you want to add electrocution to your spell list
+do you want to add electrocution to your spell list
+master short button short used begin player if used do you want to add electrocution to your spell list yes no end begin activate if player amp amp used do you want to add electrocution to your spell list yes no end begin set button to if button gt if button add the spell to the player s player master set used to end
+do you want to add shocking touch to your spell list
+do you want to add shocking touch to your spell list
+novice short button short used begin player if used do you want to add shocking touch to your spell list yes no end begin activate if player amp amp used do you want to add shocking touch to your spell list yes no end begin set button to if button gt if button add the spell to the player s player novice set used to end
+do you want to add electric touch to your spell list

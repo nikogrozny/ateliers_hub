@@ -1,0 +1,20 @@
+begin player end
+begin player end
+ short successfully used speech on
+begin player set to disable end
+ref begin set to if player player end
+begin player player disable end
+begin player player make toy start following set following to disable end
+int following ref begin set to set to if the sentry bot is healthy pick it up if player player otherwise player picks up a broken version player place broken sentry bot in player s inventory player make toy stop following set following to end
+begin set to check if everyone s dead and if so set a flag to start the end scene if if fight s over update quest objectives set flag so scene with legate fires as you leave set to end
+script int ranger state
+int begin player if enable the rangers ref enable ref enable set to end
+this script causes oliver and his rangers to be placed in their appropriate locations after running from the player on the first level ref int int int not enabled enabled the explosives on the second floor are initially disabled so they don t blow up due to explosions during fighting on the first floor begin set to if set to set to disable make oliver non ghosty ref disable ref disable set to set to player if enable set to enable enable check for player and companions just in case we allow people to come back if player if oliver and co are retreating everyone entering gets deleted disable end
+int speech not done speech done waiting to activate activated oliver is leaving int scene not started scene started int destroyed not destroyed going down down float float timer begin player disabling player control so he can t swing a weapon constantly and break the scene timer set timer to timer give player control back so he can chase oliver timer activate enable enable enable ref enable ref enable enable set to if you killed oliver the legate and his men enter move the legate enable the legate s men enable open the door so the legate and his men can come through set to for the case where the player talked oliver away re enable controls so the player can leave if you talked oliver into leaving wait a bit before the legate enters if timer set timer to timer else set to update quest if destroyed set to destroyed disable disable set destroyed to set to end
+short int in his office waiting for player downstairs running upstairs after talking to player upstairs waiting for player actively fighting player with power troopers begin end begin player if set to if end end begin set to if player is with the legion start the legate endgame sequence if check if everyone s dead and if so set a flag to start the end scene if if fight s over update quest objectives set flag so scene with legate fires as you leave set to house ending check to see if buddies are dead independent ending end
+ref unlock unlock else lock end begin set to only do the following when the player enters if player if currently on the legion set up the oliver fight if first move oliver to the marker make oliver a ghost so the player can t vats him next update oliver s state and begin his dialog package set to next enable oliver s ranger bodyguards ref enable ref enable initialize the counts for the enemies so we can tell when they re dead set to set to set to give oliver faction just in case the number could be anything player return lock activate end
+moved code from to this block so as to lighten use part of a game wide revision of scripts jorge short set to set to end
+v short begin player v if v v if v player v v set to end
+inflicts fatigue damage on the consumer to temporarily knock it out effect level logic should only apply this effect to non animals receive a different negative effect ref begin set to fatigue end
+begin player end
+ end if else if crowd freak out if a set a to set a to if set to set a to trooper ref end

@@ -1,0 +1,20 @@
+creates a hovering light that lasts for lt dur gt seconds
+target is invisible for lt dur gt seconds activating an object or attacking will break the spell
+caster is invisible for lt dur gt seconds activating an object or attacking will break the spell
+summons a storm for lt dur gt seconds wherever the caster is pointing
+summons a frost for lt dur gt seconds wherever the caster is pointing
+summons a flame for lt dur gt seconds wherever the caster is pointing
+a bolt of lightning that does lt mag gt points of shock damage to health and half that to
+restore health
+heals the target lt mag gt points but not undead or machines
+restore health
+heals the caster lt mag gt points
+restore health
+heals the target lt mag gt points per second but not undead or machines
+restore health
+heals the caster lt mag gt points per second
+a freezing whirlwind that does lt mag gt points of frost damage per second to health and stamina
+a spike of ice that does lt mag gt points of frost damage to health and stamina
+a fiery explosion for lt mag gt points of damage in a foot radius targets on fire take extra damage
+creates a magic bow for lt dur gt seconds sheathe it to dispel
+creates a magic sword for lt dur gt seconds sheathe it to dispel

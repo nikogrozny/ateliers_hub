@@ -1,0 +1,20 @@
+self
+short
+color target color all in cone
+color target color enemies in cone
+color target color allies in cone
+unavailable cannot afford activation cost
+unavailable character is debilitated
+unavailable this ability cannot be used with the currently equipped weapon
+unavailable action already used
+color activation cost color
+color ability color
+color activation costs color
+color on success color
+color on failure color
+color effects color
+weapon damage
+weapon damage x
+heals to points of
+heals points of
+heals to points of lowest stat pool

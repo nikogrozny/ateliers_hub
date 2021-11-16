@@ -1,0 +1,20 @@
+ref begin set to if set to set to set to activate end
+int button player end begin set button to if button disable disable activate end
+this script governs the sandstorm objects placed in the hidden valley exterior float time used to check what time it is float timer used to help time state changes int off starting on ending
+begin end
+begin end
+int flag to see if we doing the push scene int pushed not pushed yet pushed int haven t faded in yet already faded in int haven t locked door behind player locked door behind player float used to help time events in the push scene begin if pushed player set pushed to if lock set to if lock player greeting set to set to maybe switch the following over when we get sound say player greeting set to set to end begin something is closing end
+a temporary script where guys shoot at an actor begin end
+script begin player if player end
+script short begin player if player end
+ begin end already done if player player else activate end set to if set to end begin set fixed to ensure that if the player repairs this before getting the quest that the objective is updated when he gets the quest if set to disable disable if note this may be vestigial this objective is shown after fantastic gives the quest now disable end
+begin player end begin set to end
+ref
+ref
+ref begin set to if player one of the scribes tells you that the item is broken say end
+ref begin set to if player one of the scribes tells you that the item is broken say end
+ begin set to set to end
+added conditional code to reduce the cost of running the script on every frame part of a game wide revision of scripts jorge float timer ref teacher begin player end begin set to end begin set teacher to if player return player teacher if timer say set timer to set timer to timer end
+ref int count int begin set to only make patrol lock door behind them if player hasn t started bos quest if set count to count if count lock if player if unlock the door ahead the first time through unlock unlock the door further on too unlock set to end
+hv begin set to end
+int cg set to end

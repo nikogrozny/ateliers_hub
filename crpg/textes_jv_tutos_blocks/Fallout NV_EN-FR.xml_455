@@ -1,0 +1,20 @@
+int set to one when the theater event happens int bonce
+this script is attached to item int begin player complete the optional objective to get the elijah responds to the player acquiring the hide objectives so they don t appear in the pip boy give player set to end
+this script is attached to a trigger at the westernmost entrance of del sol south the first time the player enters the area elijah gives him her an objective to find a piece of equipment he dropped there int begin player if elijah tells the player about the quickly hide the objectives so they don t show up in the pip boy finally give the player the pip boy objective set to end
+variables stored in the lobby s terminal to control the display of messages related to retrieving the levels music tracks jorge begin say set to set to ends bark say end
+begin end
+begin end
+begin player was directed to the tape if player god barks two generic lines if player end
+begin player end begin player end
+handles dialogue ah set the talking activator to use say to done for the act scripts short bact short off running complete begin end begin intro if bact player intro set bact to end begin intro if player intro end begin radio elijah mentions some speakers can be shot player end
+randomly generates either small burn smoke or large burn fire on hit short begin set to if smoke else flames end begin smoke flames end
+begin player forward forward forward end
+this script controls the message for the bunker door confirmation message variables short grabs the button pressed for the message box short tracks if the player has entered the end of variables begin player added so only the player can activate the message else return else activate end begin set to if set to activate end
+short god points out the dog command tape short god explains how to use the dog command tape short begin player if set to player disable end
+fires a bark from christine when the player triggers a screeching sound nearby ref begin player only play if christine is in the party and currently following the player if followers followers set to player disable end
+created to support hologram vendor functionality short
+elijah barks at the player when he tries to enter sierra madre before gala ref begin player set to if say disable else disable end
+elijah barks at the player if isn t completed and player is looking at villa exit ref begin player set to if say disable else disable end
+this one takes care of explosions at specific spots when players retraverse the level in their escape to the vault s elevator jorge operational variables int begin player the collar timer has been set in the vault s script box that handles its timer and random explosions if ref if ref enable ref set to set to return ref if ref enable ref enable ref say set to set to ref if ref enable ref enable set to set to if enable set to set to ref if ref enable ref enable enable enable ref say set to set to ref if ref enable ref enable ref set to set to ref if ref enable ref enable enable enable enable ref set to set to ref if ref enable enable enable enable enable ref set to set to ref if ref enable enable ref enable enable enable enable ref say set to set to ref if if player ref enable enable enable ref set to set to end
+ player return else activate end
+launches crafting interface for recipes in the category ref user ref short forward set to end begin set user to if player user activate player if player else if player repair else end begin set to if if player repair idle set to set to enable end

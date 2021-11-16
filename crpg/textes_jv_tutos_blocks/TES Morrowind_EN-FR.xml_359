@@ -1,0 +1,20 @@
+begin short if gt lt disable return if lt gt disable return if bm gt if bm lt enable if bm lt disable if bm gt if gt disable end
+begin short if out gt lt disable return if bm gt enable if gt if bm gt if bm lt disable end
+begin if bm missionary lt disable end
+begin short if if bm missionary gt gt gt sc end
+begin script if if bm gt if player gt activate else the master of this castle has only given permission for a werewolf to enter else the master of this castle has not given you permission to enter end script
+the castle above may not be entered until permission is granted by the master of the castle
+begin script if if bm if player gt bm lt activate if bm gt activate else the castle above may not be entered until permission is granted by the master of the castle return end script
+begin short if bm if player lt if journal bm set to end
+begin short short short if bm gt if if bm lt journal bm else return if return if bm set to if if set to if set to if if bm set to if bm set to if bm gt if return if if set to set to set to end
+begin if if bm gt disable bm gt disable end
+begin short short if player gt werewolf blood set to else set to end
+begin short short short float timer if bm lt if bm lt return if bm this section makes sure that his follow gets reset if gets lost and confused if if set to if set timer to timer if timer gt player set to if if bm gt set to bm gt set to if if bm gt if player lt set to if if bm gt if bm lt journal bm bm set to if if if player lt if bm gt journal bm set to end
+begin if bm trial gt enable terrain bm ice unique gt disable if bm trial lt disable terrain bm ice unique gt enable end
+begin if if bm trial lt disable bm gt disable if bm trial gt if bm lt enable end
+begin short if if bm gt journal bm end
+begin short short short if this is to keep him from greeting if he s a corpse which is tacky set to if gt if bm smugglers lt set to if player if if bm smugglers if if player lt set to set to end
+as you read the scroll of the wolf ender your master s voice echoes in your ear not yet my hound
+you read the scroll of the wolf ender you have been cleansed of the werewolf curse
+you read the scroll of the wolf ender you have been cleansed of the werewolf curse
+begin short done short short short short if done set to return if bm lt set to bm gt set to else set to if player gt sc gt set to if return if return set to if bm lt if if as you read the scroll of the wolf ender your master s voice echoes in your ear not yet my hound set to activate else you read the scroll of the wolf ender you have been cleansed of the werewolf curse journal bm set to set to set done to activate if bm gt if set done to activate if bm lt if if as you read the scroll of the wolf ender your master s voice echoes in your ear not yet my hound activate set to else you read the scroll of the wolf ender you have been cleansed of the werewolf curse journal bm set to set to set done to activate end

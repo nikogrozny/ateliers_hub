@@ -1,0 +1,20 @@
+s if start virtued
+s if not start virtued
+s while walking backward
+increased chance of winning gold
+increased chance of winning trinkets
+increased chance of losing gold
+increased chance of losing trinkets
+d start bleed skill chance
+d start skill chance
+healing prevented
+d additional hp start healed
+d start healing skills
+d start healing received
+d start healing when eating
+d chance monsters start surprised
+d start move skill chance
+d chance party start surprised
+d start blight skill chance
+d remove negative quirk chance
+d start bleed resist

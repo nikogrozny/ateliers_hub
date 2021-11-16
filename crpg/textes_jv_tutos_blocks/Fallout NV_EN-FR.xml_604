@@ -1,0 +1,20 @@
+spawns more tunnelers initially disabled to prevent mass assault on player when he first arrives begin player parent enable disable end
+road makes the run out of sight short is retreating begin player if road set to end begin player if road set to end
+removes the body dm begin disable end
+road this script adds the usable laser detonator to the player s inventory and removes its activator object from the world j s short begin player player set to disable end
+divide ambush script enables marked men for a player ambush dm begin enable player enable player disable end
+divide ambush script enables marked men for a player ambush dm begin enable player enable player disable end
+has the marked man throw a grenade at the player copied over the script from for dm updated to not use kill actor to prevent a possible crash with dying twice short only add the package once player set to end player player if player else end
+has the marked man throw a grenade at the player dm short only add the grenade package once begin player disable end
+has the marked man throw a grenade at the player copied over the script from for dm updated to not use kill actor to prevent a possible crash with dying twice short only add the grenade package once player set to player set to end player player if player else end
+used to handle the scripting needed for begin player if player set achievements to achievements disable end
+used to handle the scripting needed for begin player if player set achievements to achievements disable end
+used to handle any scripting stuff associated with the audio log begin player if player set achievements to achievements disable end
+used to handle any scripting stuff associated with the audio log begin player if player set achievements to achievements disable end
+used to handle any scripting stuff associated with the audio log begin player if player set achievements to achievements disable end
+used to handle the scripting needed for begin player if player set achievements to achievements disable end
+begin player if set to player end
+road handles scripted scene ambush in the women s barracks secondary loc of road j s short int float begin player if set to return end begin road ref enable set to set to return else set to if road ref enable set to return else set to set to set to set to disable end
+ref begin set to if player player end begin set to if player if player end
+dm modified to run once short begin player if set to end
+silo script that handles activation states of the lever activator tied to the mainframe terminal in silo j s short lever has been used and remains in its final position thereafter int lever is in off position lever is ready to be used lever has been used these states correspond to the following animation groups on the lever and forward player end

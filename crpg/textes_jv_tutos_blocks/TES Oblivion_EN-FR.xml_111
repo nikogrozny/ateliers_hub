@@ -1,0 +1,20 @@
+script float timer short delay short short start begin swing the blade if start random seed so each blade doesn t start swinging at the same time set timer to if timer gt set timer to timer gt set timer to timer gt set timer to timer gt set timer to set start to if timer lt amp amp start set start to set timer to if timer lt amp amp start if forward set to else backward set to set timer to set timer to timer end
+tg begin player if tg gt amp amp tg lt set tg to tg tg end
+begin if player end
+script for activation of enchanting station which brings up enchant menu begin if player end
+script short float timer begin toggle lever if forward set timer to set to end begin timer handler if timer gt set timer to timer raise gate if amp amp timer lt ref forward set timer to set to lower gate if amp amp timer lt ref backward set to end
+short float timer begin begin if fg expulsion set to if player set to fade the player to black infiltration set infiltration to if disable enable disable enable enable disable disable enable disable set to player end
+short short equip begin if mg ambush if equip if player lt set equip to else set equip to if mg ambush gt if mg ambush if set to end
+short equip short begin if mg ambush if equip if player lt set equip to else set equip to if mg ambush gt if mg ambush if set to end
+script short state begin end begin if state if player lt forward set state to if state if player gt backward set state to end
+mg short begin on death increment variable in mg script to trigger enabling of next necromancer in the series if set mg ambush to mg ambush set to end
+short short short short short float
+ms remains short begin if player amp amp if player ms forward ms set ms to set to else you do not have the keys to unlock the manacles end
+ms logbook begin if player amp amp ms lt activate ms else activate end
+ms undead short dead begin if ms gt set ms to ms end begin if dead if set dead to if ms gt set ms to ms this triggers first crew killed journal if ms amp amp ms ms end
+short begin set to end begin set to if player lt amp amp rats amp amp player rats end
+short begin set to player end
+ms begin ms ms end begin ms ms end
+ms short short float begin if player the watchman ignores you when you try to speak to him end begin triggers the after a given amount of time if ms amp amp ms if lt set to else set ms to this triggers the force greet by ghost if player is near his final position at end of his walk and is close enough if ms amp amp ms lt amp amp player lt amp amp player greeting set to end begin ms set ms sentry to end
+begin set timer to set to set to this set to end
+begin set timer to set to set to this set to end

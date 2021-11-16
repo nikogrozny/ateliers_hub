@@ -1,0 +1,20 @@
+the mages guild is an organization dedicated to the instruction and responsible use of magic throughout the empire
+the fighters guild maintains minimum standards of public behavior you must have a clean criminal record to join
+there are sixteen princes each with his own plane of oblivion
+to regain your health find a bed to sleep in beds can be found in rooms for rent in taverns you can also find bedrolls in wilderness camps
+the conjuration skill will allow you to summon powerful weapons armor and creatures to aid you in battle
+a number of shabby abandoned houses mar the essential beauty of the town of anvil
+fill your soul gems by soul trapping creatures you can also soul trap a creature you summoned
+enchanting and can only be performed by mages guild members at the arcane university
+realistic lighting and shader effects combine to create detailed and immersive environments
+to perform alchemy you must have at least a mortar and pestle adding a calcinator alembic or retort helps improve your potions
+increasing your major skills will increase your level
+fatigue affects how good you are at combat and magic actions like jumping and fighting will decrease your fatigue
+faction for first knights
+sir roderic s faction
+knights of the nine
+begin nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd end
+this gate is opened remotely
+activated by linked child activates optionally linked parent after sec delay no reset gate is permanently open once activated short init short open short next short busy float timer ref myself ref begin if player if open message this gate is opened remotely myself amp amp busy if open forward set open to else backward set open to set next to set timer to set busy to end begin if init set up ref set myself to set to prepare linked points set init to daisy chain activation if next amp amp timer lt set next to activate myself if timer gt set timer to timer if amp amp busy set busy to end
+short set to when spoke to player short disable process float timer begin end sir disables himself if he is still around after the other ghosts leave begin if return if nd fin gt amp amp if set timer to set to set timer to timer if timer lt if nd set to set to set to if timer lt disable end
+short short float begin set nd to if nd set nd to nd set nd to nd set nd to nd set nd to nd set nd to nd set nd to debug forces value to so that test arena always uses ability set to if nd if player set to else if player set to if player takes s weapon out of his inventory remove it weapon script added correct item if player player player player player player player player set to end

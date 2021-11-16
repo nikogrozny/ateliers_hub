@@ -1,0 +1,20 @@
+combat time
+spell cast
+character damaged
+character attacked
+target destroyed
+hidden object found
+combat start
+low health
+enemy spotted
+stop party movement
+automatically move the camera to the location of any event
+when a party member is downed
+when an attack against a party member is completed
+when a party member takes damage
+when a party member becomes the target of an attack
+when a party member s endurance drops below
+when a party member s health drops below
+when the party spots an enemy
+when combat begins
+when a party member is engaged by an enemy in melee combat

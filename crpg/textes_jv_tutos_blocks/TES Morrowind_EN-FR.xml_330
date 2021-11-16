@@ -1,0 +1,20 @@
+begin strong if stronghold gt if enable else if disable end
+begin strong complete if stronghold lt if disable else if enable end strong complete
+begin strong construct enables phase one construction clutter for the stronghold if stronghold if enable else if disable end strong construct
+begin strong only if stronghold if enable else if disable end strong only
+begin strong if stronghold gt if enable else if disable end
+begin strong complete if stronghold lt if disable else if enable end strong complete
+begin strong construct if stronghold if enable else if disable end strong construct
+begin strong not if stronghold lt if enable else if disable end
+begin strong only if stronghold if enable else if disable end strong only
+begin strong if stronghold gt if enable else if disable end
+begin strong complete if stronghold lt if disable else if enable end strong complete
+begin strong construct if stronghold if enable else if disable end strong construct
+begin strong not if stronghold lt if enable else if disable end
+begin strong build h short short when stronghold phase is done stop if stronghold gt strong build h return when stronghold starts building store the current day if set to day set to if we already set a day count the days if day presumably it went up set to set to day wait x days for the stronghold to be built give journal set global make sure player is not in the cell while the stuff goes poof if plateau if gt journal stronghold set stronghold to end
+begin strong build r short short when stronghold phase is done stop if stronghold gt strong build r return when stronghold starts building store the current day if set to day set to if we already set a day count the days if day presumably it went up set to set to day wait x days for the stronghold to be built give journal set global make sure player is not in the cell while the stuff goes poof if bal if gt journal hr stronghold set stronghold to end
+begin strong build t short short when stronghold phase is done stop if stronghold gt strong build t return when stronghold starts building store the current day if set to day set to if we already set a day count the days if day presumably it went up set to set to day wait x days for the stronghold to be built give journal set global if s grave if gt journal ht stronghold set stronghold to end
+begin strong build h short short if stronghold gt strong build h return if set to day set to if day presumably it went up set to set to day if plateau if gt journal stronghold set stronghold to end
+begin strong build r short short if stronghold gt strong build r return if set to day set to if day presumably it went up set to set to day if bal if gt journal hr stronghold set stronghold to end
+begin strong build t short short if stronghold gt strong build t return if set to day set to if day set to set to day if s grave if gt journal ht stronghold set stronghold to end
+begin strong build h short short if stronghold gt strong build h return if set to day set to if day presumably it went up set to set to day if plateau if gt journal stronghold set stronghold to end

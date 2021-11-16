@@ -1,0 +1,20 @@
+novice short button short used begin player if used do you want to add serenity to your spell list yes no end begin activate if player amp amp used do you want to add serenity to your spell list yes no end begin set button to if button gt if button add the spell to the player s player novice set used to end
+do you want to add pacification to your spell list
+do you want to add pacification to your spell list
+apprentice short button short used begin player if used do you want to add pacification to your spell list yes no end begin activate if player amp amp used do you want to add pacification to your spell list yes no end begin set button to if button gt if button add the spell to the player s player apprentice set used to end
+do you want to add soothing touch to your spell list
+do you want to add soothing touch to your spell list
+novice short button short used begin player if used do you want to add soothing touch to your spell list yes no end begin activate if player amp amp used do you want to add soothing touch to your spell list yes no end begin set button to if button gt if button add the spell to the player s player novice set used to end
+do you want to add calming touch to your spell list
+do you want to add calming touch to your spell list
+journeyman short button short used begin player if used do you want to add calming touch to your spell list yes no end begin activate if player amp amp used do you want to add calming touch to your spell list yes no end begin set button to if button gt if button add the spell to the player s player journeyman set used to end
+do you want to add chameleon to your spell list
+do you want to add chameleon to your spell list
+journeyman short button short used begin player if used do you want to add chameleon to your spell list yes no end begin activate if player amp amp used do you want to add chameleon to your spell list yes no end begin set button to if button gt if button add the spell to the player s player journeyman set used to end
+do you want to add shadow to your spell list
+do you want to add shadow to your spell list
+expert short button short used begin player if used do you want to add shadow to your spell list yes no end begin activate if player amp amp used do you want to add shadow to your spell list yes no end begin set button to if button gt if button add the spell to the player s player expert set used to end
+do you want to add cloak to your spell list
+do you want to add cloak to your spell list
+master short button short used begin player if used do you want to add cloak to your spell list yes no end begin activate if player amp amp used do you want to add cloak to your spell list yes no end begin set button to if button gt if button add the spell to the player s player master set used to end
+journeyman short button short used begin player if used do you want to add enthralling presence to your spell list yes no end begin activate if player amp amp used do you want to add enthralling presence to your spell list yes no end begin set button to if button gt if button add the spell to the player s player journeyman set used to end

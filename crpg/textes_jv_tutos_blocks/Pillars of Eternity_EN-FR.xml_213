@@ -1,0 +1,20 @@
+a sickened character has all attributes reduced by fortitude and will are reduced by
+stuck characters are rooted able to act but unable to leave their current location dexterity is reduced by accuracy is reduced by for all sources reflex and deflection are reduced by
+stunned characters can t take any action dexterity perception and intellect are all reduced by reflex and deflection are reduced by overrides stuck and prone
+resolve and dexterity are reduced by accuracy is reduced by for all sources overrides frightened
+concussions inflict a penalty to the character s resolve and intellect
+the sprained wrist injury inflicts a penalty to deflection
+a twisted ankle injury reduces a character s reflex defense
+wrenched shoulders inflict a penalty to action speed and might
+a crit is any attack roll that is above a crit that does damage increases the total damage done by a crit on effects with a duration typically afflictions like sickened or paralyzed will increase the duration by
+a graze is any attack roll that is between and a graze reduces damage and duration by
+hit
+a hit is any attack roll that is between and when an attack scores a hit it does standard damage and has a standard duration
+there are four defenses in pillars of eternity deflection fortitude reflex and will each defense is used to resist a different category of attacks through the attack roll deflection is used to resist most direct weapon attacks or attacks that are similar to weapons fortitude opposes physical attempts to overpower a character or attack their body internally e g via a poison physical area effect attacks like fireballs and lightning bolts are resisted by reflex almost all mental attacks are opposed by will fortitude reflex and will are all based on pairs of attributes might and constitution define fortitude dexterity and perception define reflex and intellect and resolve define will base deflection is defined by the character s class and resolve all characters gain flat bonuses to their defenses every level additionally spells abilities afflictions and items can all modify a character s defenses
+afflictions are explicitly bundled sets of status effects that can be applied to suspended or fully removed from a character while some afflictions have explicit overriding or exclusivity rules most afflictions can co exist with other afflictions when a spell is cast on a target it and its subordinate effects and afflictions are all bundled together in a procedurally bundled container created by the spell if these procedurally bundled containers are applied while an identical version is in effect e g blessing cast on someone already under the effect of a blessing the new version replaces the old no matter how many effects are on the target generally only the best bonuses and the worst penalties are applied some creatures can be immune to one or more afflictions if so these afflictions cannot be applied to those creatures
+a passive talent or ability is one that can be added to a character where the bonus is gained automatically for example a character with snake s reflexes gains their bonus to reflex saves automatically
+active
+an active talent or ability is one which the player must choose to use for example a fighter who has knock down must select the knock down icon from the action bar and select a target for the ability
+attack resolution
+all attacks in pillars of eternity compare the attacker s accuracy value to one of four defenses deflection direct melee and ranged attacks fortitude body system attacks like poison and disease reflex area of effect damage attacks and will mental attacks a number between and is generated and added to the difference between accuracy and defense to determine the attack results less than or equal to miss graze hit greater than crit in a balanced attack and defense scenario the majority of attacks wind up being hits or grazes when accuracy is superior to defense more are likely when defense is superior to accuracy more misses are likely
+a miss is any attack roll that is or less a miss does no damage and inflicts no status effects or afflictions

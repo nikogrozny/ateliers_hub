@@ -1,0 +1,20 @@
+begin placed on puzzle stairs object this script runs the center map of the puzzle canal you must drown yourself in this room for the bridges to appear float timer short state if return if state puzzle canal bridge a gt disable puzzle canal bridge b gt disable set state to state check for player dieing in here screen fades in and out and you get health back if player gt lt fadeout set state to state set timer to timer if timer gt thunder player gt puzzle canal bridge a gt enable puzzle canal bridge b gt enable puzzle canal glow gt disable puzzle canal force field gt disable set timer to set state to disable the stairs which this script is placed on state done but keep the stupid player at least until they leave the area if player gt lt player gt return end
+begin death short short short if if set to if if moon sugar added moon sugar if mv lt journal mv mv helas gt if if mission if gt player lt journal mv set to gt im end
+begin global script that gets run once to check the pc s race so it can be used in dialogue if player gt set to player gt breton set to player gt dark elf set to player gt high elf set to player gt imperial set to player gt set to player gt set to player gt orc set to player gt set to player gt wood elf set to end
+begin short makes racists stop threatening main quest a if if a if gt set to end
+hey wait for me
+begin short short short float timer short short state global short if return if il gt return if lt return if il disable if quest is not active disable return if state enable when quest is active but only once enable set state to if il lt if state lt if player lt set state to return if if follow is the current package set and continue set to if if follow is done has arrived journal il set to say vo o f of mp thank you if timer lt set timer to timer return if if is outside for abit the quest is also done journal il set to say vo o f of mp thank you if player lt if player lt set to set timer to return if say vo o f of mp hey wait for me set to else if follow is not the current package make sure is zero set to end
+begin short if return if journal retaliation set to activate end
+begin short if if gt if smith to try and stop him from following through doors smith end
+begin short end
+begin short short if return if set to if pest gt if pest lt if pest if journal pest set to end
+begin short if return if gt disable end
+begin if return if enable else disable end
+begin short state short if state return if player lt set state to end
+begin short short if return if set to activate if set to end
+begin no lore short for ht monopoly short for hortator dialogue if if set to else set to end
+begin short if mv lt return if mv gt return if return if journal mv if mv gt if mv lt if im lt journal mv if savile lt journal mv if return if mv gt if disable jah end
+begin script on guards to remove them during hr quest if return if hr gt if hr lt if disable return if enable end
+begin town quest gateway haunt resurrects until journal town gt if if gateway haunt gt lt gateway haunt gt resurrect end
+begin if return if enable else disable end
+begin makes ring spin around like a cheesy b movie until you click on it short if return if disable if rotate z return cast hand of player set to activate end

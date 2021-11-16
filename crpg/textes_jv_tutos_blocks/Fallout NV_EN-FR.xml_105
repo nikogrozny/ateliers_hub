@@ -1,0 +1,20 @@
+the ex if they re heading for the hills ref used to hold reference to the actor that just entered or left the trigger begin ref if ref disable end begin ref if ref disable end begin ref if ref disable end begin ref if ref disable end
+int player enable set to wild wasteland activated player disable set to wild wasteland deactivated end
+this script jumps neil to the southern part of black mountain to talk to the player if the player approaches the area from that direction it fires when the player passes through the fence gate near the centaur crater area int begin player if set to set to end
+int begin player if set to set to end
+begin player stop radio broadcast since you re interrupting tabitha set to say player end
+short mode ref player set to the linked ref should be the door if mode door closed or open forward pull handle out set mode to activate activate all the things that this is an activate parent of klaxon light and activator end mode if set to the linked ref should be the door left pull handle down set mode to activate player if mode if backward set mode to if mode if set mode to end
+short begin player if set to end
+ref myself ref short rnd begin set rnd to if rnd set to if stonewall set myself to myself else end
+float ref myself begin set myself to if myself player poisoned by bark scorpion float set to set to end begin set myself to if myself player if set to else set to end
+int ref myself set myself to activate myself set to end begin activate end
+short begin player if set to end
+script short begin player activate if set to end
+ player if activate end
+ float int cloaked stealth boy effect not on stealth boy effect on this var is meant to ensure we never try to remove the effect when it s not already on begin sneak add the effect update the flag if cloaked set cloaked to set to set to end begin set to end begin set to end begin set to if the is currently using the stealth boy effect remove it if cloaked set cloaked to end begin ref set to this if player player if ref set to else if set to if cloaked attacking now set cloaked to end
+ float int cloaked stealth boy effect not on stealth boy effect on this var is meant to ensure we never try to remove the effect when it s not already on begin sneak add the effect update the flag if cloaked set cloaked to set to set to end begin set to end begin set to end begin set to if the is currently using the stealth boy effect remove it if cloaked set cloaked to end begin ref set to this if player player if ref set to if turn stealth back on set to set to d else set to else if cloaked set cloaked to set to if cloaked set cloaked to if d set to if set to cloaked set cloaked to set to end
+script int begin player if rock enable rock enable rock enable marker set to end
+script int begin player if rock enable rock enable rock enable rock enable marker set to end
+this script runs when the player begins to climb up the trail that leads to a rockslide on black mountain it causes several smaller rocks to begin coming down as a warning int int float timer begin player if enable enable enable enable enable enable enable enable enable enable enable enable enable set to set to end begin timer set timer to timer play sound for smaller rocks coming down forward forward forward forward forward forward forward forward forward forward forward forward forward set to end
+int state state player player set state to backward end state forward state backward end state forward set state to end
+ref begin set to if player if b else end

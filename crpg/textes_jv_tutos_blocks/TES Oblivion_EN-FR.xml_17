@@ -1,0 +1,20 @@
+the door is held shut by a supernatural force
+se begin if se lt se end begin if player if se lt the door is held shut by a supernatural force else activate else activate end
+se begin player if se if se amp amp se se activate end
+se begin player if se if se amp amp se se activate end
+se empty probably unnecessary script meant only to ensure that the non obelisk priests in se do not inherit the resurrection scripts
+begin if se gt if se gt if player gt player end
+the switch will not move
+se begin message the switch will not move end
+se activates linked parent object once short triggered short active ref myself ref begin if triggered set to don t fire spells at dark seducers if se amp amp active set myself to se activate myself set triggered to end
+script when the gate is unlocked an actor trigger is enabled ref short unlocked short begin if amp amp set unlocked to set to trig ref enable set to end begin set to end
+script when the gate is unlocked an actor trigger is enabled ref short unlocked short begin if amp amp set unlocked to set to trig ref enable set to end begin set to end
+script when the gate is unlocked an actor trigger is enabled ref short unlocked short begin if amp amp set unlocked to set to trig ref enable set to end begin set to end
+script when the gate is unlocked an actor trigger is enabled ref short unlocked short begin if amp amp set unlocked to set to trig ref enable set to end begin set to end
+script when the gate is unlocked an actor trigger is enabled ref short unlocked short begin if amp amp set unlocked to set to trig ref enable set to end begin set to end
+script actor inside it one time short triggered ref actor ref myself begin if triggered set actor to actor set triggered to end begin set triggered to end
+script when the gate is unlocked an actor trigger is enabled ref short unlocked short begin if amp amp set unlocked to set to trig ref enable set to end begin set to end
+short tracks s state for dialogue purposes short tracks how many of the five souls have been saved begin used to track when is disabled for dialogue for if amp amp set to end
+based on time of day this script will enable disable objects begin if player if gt amp amp lt ref enable ref enable ref enable ref disable ref disable else ref disable ref disable ref disable ref enable ref enable activate end
+script animating order crystals for se dungeon animates up or down when activated by correct reference ref who is activating me short visible set to when forward make crystals visible begin set to if animate down if not already down if visible backward set visible to animate up if not already up if visible forward set visible to end
+se begin player se activate player end

@@ -1,0 +1,20 @@
+novice short button short used begin player if used do you want to add alluring gaze to your spell list yes no end begin activate if player amp amp used do you want to add alluring gaze to your spell list yes no end begin set button to if button gt if button add the spell to the player s player novice set used to end
+do you want to add seductive charm to your spell list
+do you want to add seductive charm to your spell list
+apprentice short button short used begin player if used do you want to add seductive charm to your spell list yes no end begin activate if player amp amp used do you want to add seductive charm to your spell list yes no end begin set button to if button gt if button add the spell to the player s player apprentice set used to end
+journeyman short button short used begin player if used do you want to add voice of rapture to your spell list yes no end begin activate if player amp amp used do you want to add voice of rapture to your spell list yes no end begin set button to if button gt if button add the spell to the player s player journeyman set used to end
+do you want to add beguiling touch to your spell list
+do you want to add beguiling touch to your spell list
+novice short button short used begin player if used do you want to add beguiling touch to your spell list yes no end begin activate if player amp amp used do you want to add beguiling touch to your spell list yes no end begin set button to if button gt if button add the spell to the player s player novice set used to end
+apprentice short button short used begin player if used do you want to add mesmerizing grasp to your spell list yes no end begin activate if player amp amp used do you want to add mesmerizing grasp to your spell list yes no end begin set button to if button gt if button add the spell to the player s player apprentice set used to end
+apprentice short button short used begin player if used do you want to add command creature to your spell list yes no end begin activate if player amp amp used do you want to add command creature to your spell list yes no end begin set button to if button gt if button add the spell to the player s player apprentice set used to end
+do you want to add dominate creature to your spell list
+do you want to add dominate creature to your spell list
+expert short button short used begin player if used do you want to add dominate creature to your spell list yes no end begin activate if player amp amp used do you want to add dominate creature to your spell list yes no end begin set button to if button gt if button add the spell to the player s player expert set used to end
+apprentice short button short used begin player if used do you want to add command humanoid to your spell list yes no end begin activate if player amp amp used do you want to add command humanoid to your spell list yes no end begin set button to if button gt if button add the spell to the player s player apprentice set used to end
+expert short button short used begin player if used do you want to add dominate humanoid to your spell list yes no end begin activate if player amp amp used do you want to add dominate humanoid to your spell list yes no end begin set button to if button gt if button add the spell to the player s player expert set used to end
+do you want to add commanding touch to your spell list
+do you want to add commanding touch to your spell list
+apprentice short button short used begin player if used do you want to add commanding touch to your spell list yes no end begin activate if player amp amp used do you want to add commanding touch to your spell list yes no end begin set button to if button gt if button add the spell to the player s player apprentice set used to end
+do you want to add dominating touch to your spell list
+do you want to add dominating touch to your spell list

@@ -1,0 +1,20 @@
+atomic perk message
+script checks if is dead if so fail the quest end
+script to start up animation on load and disable force fields when hit by the field disruptor copied script to make a version that would get and disable a linked reference added quest update for the first time you use the sonic emitter on a short bonce for initial setup do once ref linked force field bonce forward play the force field glow on load set bonce to end when the force field is shot by the field gun disable it link all other associated objects like blocking volumes to this force field as enable to keep scripting simple has the player found the sonic emitter upgrade in x if set to if disable disable any other linked force fields play common force field sound x bump nearby loot in case they re resting on the force field disable end
+used to have the docs spit out combat barks throughout the fight float used to set up a delay to the next bark short used to determine which doc is barking short used to delay the first bark set to set to set delay for first bark set to if set to set delay for next bark to seconds set to set which doc will bark reset the delay to fire off another bark if doc s dead set to if doctor ref reset the delay to fire off another bark if doc s dead set to doctor ref doctor ref if reset the delay to fire off another bark if doc s dead set to if reset the delay to fire off another bark if doc s dead set to if reset the delay to fire off another bark if doc s dead set to end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+adds recipe note to player on pickup removes note on player drop begin player end begin player end
+x prevents security turrets from reacting to blast damage caused by player short run this once only set to x end aggression aggression end
+x script that checks if player has added or removed the perk when entering the x tunnels and repositions the if needed begin player if player x switches package to playing poker if player has wild wasteland set x to x x x x x x x x x x x x x x x player x switches dogs to looking at the chalkboard if player doesn t have set x to x x x x x x x x x x x x x x x end
+x script control to wake up turrets short bonce do once to prevent spamming begin player set x to x enable end x setup if x setup x robot ref x robot ref x robot ref x setup say set x setup to x replay x robot ref x robot ref x robot ref x setup say set x replay to end

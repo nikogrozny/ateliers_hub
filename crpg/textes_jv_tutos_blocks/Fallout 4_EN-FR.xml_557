@@ -1,0 +1,20 @@
+multiplier on drain inflicted on the power armor fusion core
+pa bat dam rate
+attack damage bonus
+is romantically involved with player character
+currently used in sabotaged turrets
+bonus happiness
+does the player currently have a room rented in this actor s inn
+value determines which affinity scene should start when the greets the player for example the value stored in ca scene
+current custom affinity threshold
+used by set to to turn on
+note dogmeat s mult is re set to in stage and should be modified there if this default value changes
+modifies the magnitude of chem effects note for this actor value to actually do anything the actor needs to have the associated perk
+modifies distance required to set off mines note for this actor value to actually do anything the actor needs to have the associated perk
+modifies incoming limb damage by this percentage example this value is incoming damage is reduced by note for this actor value to actually do anything the actor needs to have the associated perk
+modifies incoming falling damage by this percentage example this value is incoming damage is reduced by note for this actor value to actually do anything the actor needs to have the associated perk
+modifies movement value used by the stealth formula by this percentage note for this actor value to actually do anything the actor needs to have the associated perk
+the maximum heat level for
+used by set to to turn on
+add to if they lose to player in brawl
+add to if they beat player in brawl
